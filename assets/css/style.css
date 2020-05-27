@@ -66,6 +66,53 @@ body {
   color: #000;
 }
 
+/*-------------------------------------------Section--------------*/
+
+.ride-header {
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+/* The images used */
+.bike-touring {
+    background-image: url("../images/bikepacking.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 360px;
+    margin: 10px 20px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.landscape {
+    background-image: url("../images/day-trip.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 360px;
+    margin: 10px 20px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.food-culture {
+    background-image: url("../images/food.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    min-height: 360px;
+    margin: 10px 20px;
+    border-radius: 8px;
+    position: relative;
+}
 
 /*-------------------------------------------Footer--------------*/
 
