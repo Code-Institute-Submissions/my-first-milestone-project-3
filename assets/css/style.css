@@ -65,3 +65,32 @@ body {
   background-color: #ddd;
   color: #000;
 }
+
+
+/*-------------------------------------------Footer--------------*/
+
+footer {
+    min-height: 100px;
+    background-color: #4d4d4d;
+
+}
+
+.social-networks {
+    position: absolute;
+    right: 0;
+    margin: 25px;
+    width: auto;
+}
+
+.social-networks li {
+    display: inline;
+
+}
+
+.social-networks i {
+    font-size: 100%;
+    border-radius: 50%;
+    color: #777777;
+    background-color: #bfbfbf;
+    
+}
