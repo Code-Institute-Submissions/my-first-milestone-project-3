@@ -1,4 +1,4 @@
-<h1 align="center">Milestone Project 1</h1>
+Milestone Project 1
 
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
@@ -8,6 +8,7 @@
 -   ### V1.0 Initial commit.
 -   ### V1.1 Added header image, navbar and header text.
 -   ### V1.2 Amended page names for cross reference on nav.
+-   ### V1.3 Amends to navbar for bootstrap convention and coloring.
 
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
