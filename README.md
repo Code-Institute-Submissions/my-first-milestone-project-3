@@ -12,6 +12,7 @@ Milestone Project 1
 -   ### V1.4 Added basic footer and social network icons.
 -   ### V1.5 Added footer content, structure and color.
 -   ### V1.6 Added section content including images in index page.
+-   ### V1.7 Added section image structure and content.
 
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
