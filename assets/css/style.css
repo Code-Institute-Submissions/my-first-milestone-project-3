@@ -1,2 +1,66 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+header {
+	margin: 0 auto;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+}
+
+/*-------------------------------------------Header--------------*/
+
+.bg {
+  /* The image used */
+  background-image: url("../images/canigoupan.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  min-height: 360px;
+  position: relative;
+}
+
+.header-text h2 {
+	font-family: "Exo", sans-serif;
+	font-weight: 500;
+	font-size: 300%;
+	letter-spacing: 5px;
+	text-align: center;
+	padding-top: 150px;
+	padding-bottom: 100px;
+	color: #fff;
+}
+
+/*-------------------------------------------Navbar--------------*/
+
+.container {
+  position: fixed;
+  right: 0;
+  margin: 20px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: #000;
+}

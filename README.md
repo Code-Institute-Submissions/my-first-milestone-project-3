@@ -1,6 +1,13 @@
 <h1 align="center">Milestone Project 1</h1>
 
-[View the live project here.](xxx)
+[View the live project here.](https://readri205.github.io/my-first-milestone-project/)
+
+
+## Version control
+
+-   ### V1.0 Initial commit.
+-   ### V1.1 Added header image, navbar and header text.
+
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
 
@@ -228,3 +235,4 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
+
