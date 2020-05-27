@@ -7,13 +7,12 @@
 
 -   ### V1.0 Initial commit.
 -   ### V1.1 Added header image, navbar and header text.
+-   ### V1.2 Amended page names for cross reference on nav.
 
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
-
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
 
 ## User Experience (UX)
 
