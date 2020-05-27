@@ -10,6 +10,7 @@ Milestone Project 1
 -   ### V1.2 Amended page names for cross reference on nav.
 -   ### V1.3 Amends to navbar for bootstrap convention and coloring.
 -   ### V1.4 Added basic footer and social network icons.
+-   ### V1.5 Added footer content, structure and color.
 
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>

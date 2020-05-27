@@ -75,8 +75,41 @@ footer {
 
 }
 
+.footer-header {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    padding-top: 10px;
+    color: #fff;
+
+}
+
+.footer-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+    color: #fff;
+
+}
+
+.itinery-pdf i {
+    font-size: 18px;
+    color: #fafafa;
+    text-align: center;
+    padding-left: 5px;
+     transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+
+}
+
+.itinery-pdf i:hover {
+    color:#b22222;
+}
+
 .social-networks {
-    position: absolute;
+    position: relative;
     right: 0;
     margin: 25px;
     width: auto;
