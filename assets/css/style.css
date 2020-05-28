@@ -9,7 +9,7 @@ header {
 }
 
 body {
-	margin: 0;
+	margin: 0 auto;
     padding: 0;
 }
 
@@ -83,8 +83,25 @@ body {
     padding: 20px 0;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
-    background-color: rgba(60, 60, 60, .4);
+    background-color: rgba(60, 60, 60, .5);
     color: #fff;
+}
+
+.ride-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(60, 60, 60, .3);
+    max-width: 300px;
+    padding: 10px;
+    border-radius: 8px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
 }
 
 .uppercase {

@@ -23,6 +23,7 @@ Milestone Project 1
 -   ### V2.0 Updated for stock images bike tours and landscape.
 -   ### V2.1 Updated for tours page and additional images.
 -   ### V2.2 Updated image box styles.
+-   ### V2.3 Amended image box text styles.
 
 
 ## Image Credits
