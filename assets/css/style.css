@@ -10,6 +10,7 @@ header {
 
 body {
 	margin: 0;
+    padding: 0;
 }
 
 /*-------------------------------------------Header--------------*/
@@ -36,6 +37,10 @@ body {
 	color: #fff;
 }
 
+.header-text h2 p {
+	padding-top: 30px;
+}
+
 /*-------------------------------------------Navbar--------------*/
 
 .container {
@@ -48,7 +53,7 @@ body {
 /* The navbar */
 .topnav {
   overflow: hidden;
-  background-color: rgba(60, 60, 60, .4);
+  background-color: rgba(60, 60, 60, .6);
 
 }
 
@@ -81,48 +86,40 @@ body {
     text-transform: uppercase;
 }
 
-/* The images used */
-.bike-touring {
-    background-image: url("../images/bikepacking.jpeg");
+/*------------------------------------------The images used------------*/
+
+.image-box {
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
-    min-height: 480px;
+    min-height: 500px;
     margin: 10px 0 0 0;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.bike-touring {
+    background-image: url("../images/bikepacking.jpeg");
+    
 }
 
 .landscape {
     background-image: url("../images/day-trip.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    width: 100%;
-    min-height: 480px;
-    margin: 10px 0 0 0;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
 }
 
 .food-culture {
     background-image: url("../images/food.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    width: 100%;
-    min-height: 480px;
-    margin: 10px 0 10px 0;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
+    
 }
 
 /*-------------------------------------------Footer--------------*/
 
 footer {
-    min-height: 100px;
+    margin-top: 10px;
+    min-height: 120px;
     background-color: #4d4d4d;
 
 }
