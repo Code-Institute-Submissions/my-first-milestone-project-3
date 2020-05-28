@@ -115,6 +115,21 @@ body {
     
 }
 
+.mtb-bike {
+    background-image: url("../images/mtbseated.jpeg");
+    
+}
+
+.pirinexus {
+    background-image: url("../images/costabeach.jpeg");
+    
+}
+
+.day-tours {
+    background-image: url("../images/food.jpg");
+    
+}
+
 /*-------------------------------------------Footer--------------*/
 
 footer {

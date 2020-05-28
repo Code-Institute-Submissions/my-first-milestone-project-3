@@ -21,7 +21,12 @@ Milestone Project 1
 -   ### V1.9.4 Amends to footer wording, margin and code tidy.
 -   ### V1.9.5 Amended body image min-height.
 -   ### V2.0 Updated for stock images bike tours and landscape.
+-   ### V2.1 Updated for tours page and additional images.
 
+
+## Image Credits
+
+-   ### © Author Name - stock.adobe.com
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
 
