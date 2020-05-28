@@ -22,6 +22,7 @@ Milestone Project 1
 -   ### V1.9.5 Amended body image min-height.
 -   ### V2.0 Updated for stock images bike tours and landscape.
 -   ### V2.1 Updated for tours page and additional images.
+-   ### V2.2 Updated image box styles.
 
 
 ## Image Credits
