@@ -24,6 +24,7 @@ Milestone Project 1
 -   ### V2.1 Updated for tours page and additional images.
 -   ### V2.2 Updated image box styles.
 -   ### V2.3 Amended image box text styles.
+-   ### V2.4 Added contacts page for form design.
 
 
 ## Image Credits
