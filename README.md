@@ -16,6 +16,7 @@ Milestone Project 1
 -   ### V1.8 Amended bootstrap col div to accomodate three columns.
 -   ### V1.9 Amended margin on central images.
 -   ### V1.9.1 Further margin amendments on central images.
+-   ### V1.9.2 Amended central image minimum height.
 
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
