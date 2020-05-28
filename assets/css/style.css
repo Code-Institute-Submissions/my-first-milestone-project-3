@@ -88,7 +88,6 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
-    height: auto;
     min-height: 480px;
     margin: 10px 0 0 0;
     border-radius: 8px;
@@ -101,7 +100,6 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
-    height: auto;
     min-height: 480px;
     margin: 10px 0 0 0;
     border-radius: 8px;
@@ -114,7 +112,6 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
-    height: auto;
     min-height: 480px;
     margin: 10px 0 10px 0;
     border-radius: 8px;
