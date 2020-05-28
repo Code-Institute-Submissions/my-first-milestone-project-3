@@ -25,6 +25,7 @@ Milestone Project 1
 -   ### V2.2 Updated image box styles.
 -   ### V2.3 Amended image box text styles.
 -   ### V2.4 Added contacts page for form design.
+-   ### V2.5 Amended contacts page structure form design.
 
 
 ## Image Credits

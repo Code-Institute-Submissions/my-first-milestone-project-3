@@ -39,16 +39,23 @@
 	</header>
 	<section class="container-fluid">
 		<div class="row">
-            <div class="col-md-4">
-                <div class="mtb-bike image-box">
+            <div class="col-md-12">
+                <div class="mtb-bike image-box-form">
                     <h3 class="uppercase ride-header">Contact Us!</h3>
-                    <p class="ride-text">To contact us about any of the tours, ask us any questions or just have a chat, enter your details into the form on the right and we will get back to you as soon as we can!</p>
-                </div>
-            </div>
-            <div class="col-md-8">
-                <div class="pirinexus image-box">
-                    <h3 class="uppercase ride-header">Enter Your Details!</h3>
-                    <p class="ride-text">This is where the form is going to go</p>
+                        <form class="form-box" action="#" method="post">
+                                <p>To contact us about any of the tours, ask us any questions or just have a chat, enter your details into the form below and we will get back to you as soon as we can!</p>
+                                <label for="fname">First Name</label>
+                                <input class="text-input" type="text" id="fname" name="first_name" placeholder="First Name" required>
+                                <label for="lname">Last Name</label>
+                                <input class="text-input" type="text" id="lname" name="last_name" required>
+                                <label for="email" >Email Address</label>
+                                <input class="text-input" type="email" id="email" name="email_address" required>
+                                <label for="contactno" >Contact No.</label>
+                                <input class="text-input" type="text" id="contactno" name="contactno" required>
+                                <label for="comment">Comment:</label>
+                                <textarea class="form-control" rows="5" id="comment" name="text"></textarea>
+                                <input class="join-button" type="submit" value="Submit!">
+                        </form>
                 </div>
             </div>
         </div>
