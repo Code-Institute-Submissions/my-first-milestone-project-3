@@ -33,6 +33,7 @@ Milestone Project 1
 -   #### V2.9.1 Further amends for form position on mobile.
 -   #### V2.9.2 Further amends for form on mobile.
 -   #### V2.9.3 Amended form max width to 300px.
+-   #### V3.0 Fixed navbar to float on top with z index.
 
 
 ## Image Credits
