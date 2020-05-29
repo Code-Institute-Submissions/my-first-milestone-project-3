@@ -3,30 +3,31 @@ Milestone Project 1
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
 
-## Version control
+### Version control
 
--   ### V1.0 Initial commit.
--   ### V1.1 Added header image, navbar and header text.
--   ### V1.2 Amended page names for cross reference on nav.
--   ### V1.3 Amends to navbar for bootstrap convention and coloring.
--   ### V1.4 Added basic footer and social network icons.
--   ### V1.5 Added footer content, structure and color.
--   ### V1.6 Added section content including images in index page.
--   ### V1.7 Added section image structure and content.
--   ### V1.8 Amended bootstrap col div to accomodate three columns.
--   ### V1.9 Amended margin on central images.
--   ### V1.9.1 Further margin amendments on central images.
--   ### V1.9.2 Amended central image minimum height.
--   ### V1.9.3 Further image height adjustments.
--   ### V1.9.4 Amends to footer wording, margin and code tidy.
--   ### V1.9.5 Amended body image min-height.
--   ### V2.0 Updated for stock images bike tours and landscape.
--   ### V2.1 Updated for tours page and additional images.
--   ### V2.2 Updated image box styles.
--   ### V2.3 Amended image box text styles.
--   ### V2.4 Added contacts page for form design.
--   ### V2.5 Amended contacts page structure form design.
--   ### V2.6 Updated for contact form media query less than 543px.
+-   #### V1.0 Initial commit.
+-   #### V1.1 Added header image, navbar and header text.
+-   #### V1.2 Amended page names for cross reference on nav.
+-   #### V1.3 Amends to navbar for bootstrap convention and coloring.
+-   #### V1.4 Added basic footer and social network icons.
+-   #### V1.5 Added footer content, structure and color.
+-   #### V1.6 Added section content including images in index page.
+-   #### V1.7 Added section image structure and content.
+-   #### V1.8 Amended bootstrap col div to accomodate three columns.
+-   #### V1.9 Amended margin on central images.
+-   #### V1.9.1 Further margin amendments on central images.
+-   #### V1.9.2 Amended central image minimum height.
+-   #### V1.9.3 Further image height adjustments.
+-   #### V1.9.4 Amends to footer wording, margin and code tidy.
+-   #### V1.9.5 Amended body image min-height.
+-   #### V2.0 Updated for stock images bike tours and landscape.
+-   #### V2.1 Updated for tours page and additional images.
+-   #### V2.2 Updated image box styles.
+-   #### V2.3 Amended image box text styles.
+-   #### V2.4 Added contacts page for form design.
+-   #### V2.5 Amended contacts page structure form design.
+-   #### V2.6 Updated for contact form media query less than 543px.
+-   #### V2.7 Amended form type for Bootsrap type.
 
 
 ## Image Credits

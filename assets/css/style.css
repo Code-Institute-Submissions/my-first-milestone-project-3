@@ -115,7 +115,7 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
-    min-height: 450px;
+    min-height: 600px;
     margin: 10px 0 0 0;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -183,7 +183,7 @@ body {
 }
 
 
-.text-input {
+.form-control {
    background:transparent;
    color:#fff;
    width:100%;
@@ -193,8 +193,15 @@ body {
    border-radius: 2px;
 }
 
-.form-control {
-    background: transparent;
+.submit-button {
+    margin: 20px;
+    color: #fff;
+    background-color: #4d4d4d;
+}
+
+.submit-button:hover {
+    background-color: #fff;
+    color:#4d4d4d;
 }
 
 /*-------------------------------------------Footer--------------*/
