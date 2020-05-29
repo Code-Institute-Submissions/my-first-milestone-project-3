@@ -27,7 +27,7 @@ Milestone Project 1
 -   #### V2.4 Added contacts page for form design.
 -   #### V2.5 Amended contacts page structure form design.
 -   #### V2.6 Updated for contact form media query less than 543px.
--   #### V2.7 Amended form type for Bootsrap type.
+-   #### V2.7 Amended form type for Bootstrap type.
 
 
 ## Image Credits
