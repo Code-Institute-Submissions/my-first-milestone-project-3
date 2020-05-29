@@ -85,14 +85,15 @@ body {
 
 .ride-text {
     font-family: "Roboto", sans-serif;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 15px;
+    word-spacing: 2px;
     text-align: center;
     color: #fff;
-    background-color: rgba(60, 60, 60, .3);
+    background-color: rgba(60, 60, 60, .4);
     max-width: 300px;
     padding: 10px;
-    border-radius: 8px;
+    border-radius: 12px;
     position: absolute;
     top: 60%;
     left: 50%;
@@ -187,6 +188,20 @@ body {
    border-radius: 2px;
 }
 
+/*------------------------------------Placeholder color change--------------*/
+
+::-webkit-input-placeholder { /* Edge */
+  color: red;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: red;
+
+}
+::placeholder {
+  color: red;
+}
+
 .submit-button {
     margin: 20px;
     color: #fff;
@@ -272,16 +287,6 @@ footer {
 
 }
 
-/*-------------------------------------------StickyNavbar--------------*/
-
- }
-
- .sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
+.form-control {
+   height: 20px;
 }
