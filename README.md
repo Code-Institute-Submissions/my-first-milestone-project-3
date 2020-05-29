@@ -28,13 +28,14 @@ Milestone Project 1
 -   #### V2.5 Amended contacts page structure form design.
 -   #### V2.6 Updated for contact form media query less than 543px.
 -   #### V2.7 Amended form type for Bootstrap type.
+-   #### V2.8 Amended form position in media query less than 543px.
 
 
 ## Image Credits
 
 -   ### © Author Name - stock.adobe.com
 
-<h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTIUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
+<h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTITUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
 
 This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
 
