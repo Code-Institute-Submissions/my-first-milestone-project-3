@@ -130,32 +130,32 @@ body {
 }
 
 .bike-touring {
-    background-image: url("../images/mtbseated.jpeg");
+    background-image: url("../images/mtbseated.gif");
     
 }
 
 .landscape {
-    background-image: url("../images/catalanvillage.jpeg");
+    background-image: url("../images/catalanvillage.gif");
     
 }
 
 .food-culture {
-    background-image: url("../images/food.jpg");
+    background-image: url("../images/catalanfood.gif");
     
 }
 
 .mtb-bike {
-    background-image: url("../images/campingpyr.jpeg");
+    background-image: url("../images/campingpyr.gif");
     
 }
 
 .pirinexus {
-    background-image: url("../images/costabeach.jpeg");
+    background-image: url("../images/costabeach.gif");
     
 }
 
 .day-tours {
-    background-image: url("../images/mtbtrack.jpeg");
+    background-image: url("../images/mtbtrack.gif");
     
 }
 /*-------------------------------------------Form--------------*/

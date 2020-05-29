@@ -41,6 +41,7 @@ Milestone Project 1
 -   #### V3.5 Converted canigou jpeg to png for upload optimisation.
 -   #### V3.6 Header style changes.
 -   #### V3.7 Further image optimisation for gif.
+-   #### V3.8 Smaller images optimised as gif.
 
 
 ## Image Credits
