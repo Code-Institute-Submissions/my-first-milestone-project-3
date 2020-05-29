@@ -46,10 +46,11 @@ Milestone Project 1
 -   #### V4.0 Further content and heading space amends.
 -   #### V4.1 Update to contacts page and form layout.
 -   #### V4.2 New images for contacts page.
+-   #### V4.3 Amend to readme stock image content.
 
 ## Image Credits
 
--   ### © Author Name - stock.adobe.com
+-   ### © Author Name - stock.adobe.com (to complete)
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTITUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
 
