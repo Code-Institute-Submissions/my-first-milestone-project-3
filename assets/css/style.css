@@ -94,7 +94,7 @@ body {
 }
 
 .ride-text {
-    font-family: "Roboto", sans-serif;
+    font-family: "Exo", sans-serif;
     font-weight: 300;
     font-size: 15px;
     word-spacing: 2px;
@@ -105,7 +105,7 @@ body {
     padding: 10px;
     border-radius: 12px;
     position: absolute;
-    top: 60%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%)
 
@@ -158,6 +158,16 @@ body {
     background-image: url("../images/mtbtrack.gif");
     
 }
+
+.contact-small {
+    background-image: url("../images/campingpyr.gif");
+
+}
+
+.contact-medium {
+    background-image: url("../images/campingpyr.gif");
+
+}
 /*-------------------------------------------Form--------------*/
 
 .image-box-form {
@@ -165,7 +175,7 @@ body {
     background-repeat: no-repeat;
     background-size:cover;
     width: 100%;
-    min-height: 900px;
+    min-height: 700px;
     margin: 10px 0 0 0;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -178,13 +188,11 @@ body {
     font-size: 15px;
     text-align: left;
     max-width: 400px;
+    margin: 30px;
     color: #fff;
     background-color: rgba(60, 60, 60, .5);
     padding: 20px;
     border-radius: 8px;
-    position: absolute;
-    top: 15%;
-    left: 20%;
 
 }
 
@@ -275,12 +283,6 @@ footer {
 
  @media screen and (max-width: 543px) {
 
-.form-box {
-    max-width: 300px;
-    position: absolute;
-    left: 10%;
-
-}
 
 #topnav a {
   font-size: 15px;
