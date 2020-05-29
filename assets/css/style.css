@@ -262,7 +262,8 @@ footer {
  @media screen and (max-width: 543px) {
 
 .form-box {
-    max-width: 300px;
+    font-size: 10px;
+    max-width: 280px;
     position: absolute;
     left: 10%;
 
