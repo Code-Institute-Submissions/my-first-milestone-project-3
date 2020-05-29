@@ -160,12 +160,12 @@ body {
 }
 
 .contact-small {
-    background-image: url("../images/campingpyr.gif");
+    background-image: url("../images/cabin.gif");
 
 }
 
 .contact-medium {
-    background-image: url("../images/campingpyr.gif");
+    background-image: url("../images/collioure.gif");
 
 }
 /*-------------------------------------------Form--------------*/
@@ -188,7 +188,7 @@ body {
     font-size: 15px;
     text-align: left;
     max-width: 400px;
-    margin: 30px;
+    margin: 30px 30px 30px 100px;
     color: #fff;
     background-color: rgba(60, 60, 60, .5);
     padding: 20px;
@@ -283,6 +283,10 @@ footer {
 
  @media screen and (max-width: 543px) {
 
+.form-box {
+    margin: 30px;
+
+}
 
 #topnav a {
   font-size: 15px;

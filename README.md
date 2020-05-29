@@ -45,7 +45,7 @@ Milestone Project 1
 -   #### V3.9 Typo amends in content.
 -   #### V4.0 Further content and heading space amends.
 -   #### V4.1 Update to contacts page and form layout.
-
+-   #### V4.2 New images for contacts page.
 
 ## Image Credits
 
