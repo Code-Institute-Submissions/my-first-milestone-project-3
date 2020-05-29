@@ -11,7 +11,7 @@ body {
 
 .bg {
   /* The image used */
-  background-image: url("../images/canigoupan.png");
+  background-image: url("../images/canigoupan.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-size:cover;

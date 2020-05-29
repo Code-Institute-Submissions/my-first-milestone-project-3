@@ -40,6 +40,7 @@ Milestone Project 1
 -   #### V3.4 Amends form W3C CSS Validator (placeholder syntax removed).
 -   #### V3.5 Converted canigou jpeg to png for upload optimisation.
 -   #### V3.6 Header style changes.
+-   #### V3.7 Further image optimisation for gif.
 
 
 ## Image Credits
