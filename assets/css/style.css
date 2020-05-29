@@ -27,7 +27,7 @@ body {
 	letter-spacing: 5px;
 	text-align: center;
     text-transform: uppercase;
-	padding-top: 150px;
+	padding-top: 140px;
 	color: #fff;
 }
 
@@ -38,7 +38,7 @@ body {
 	letter-spacing: 5px;
 	text-align: center;
     text-transform: uppercase;
-	padding-top: 50px;
+	padding-top: 30px;
 	color: #fff;
 }
 
@@ -46,7 +46,7 @@ body {
 
 .fixed-top {
   position: fixed;
-  padding: 20px;
+  padding: 15px;
   /*right: 0;*/
   z-index: 2;
   /*margin: 25px;*/
@@ -56,7 +56,7 @@ body {
 /* The navbar */
 #topnav {
   overflow: hidden;
-  background-color: rgba(20, 20, 20, 0.6);
+  background-color: rgba(20, 20, 20, 0.5);
 
 }
 
