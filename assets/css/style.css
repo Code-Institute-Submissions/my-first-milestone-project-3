@@ -209,20 +209,6 @@ body {
     color:#4d4d4d;
 }
 
-/*------------------------------------Placeholder color change--------------*/
-
-::-webkit-input-placeholder { /* Edge */
-  color: red;
-}
-
-:-ms-input-placeholder { /* Internet Explorer 10-11 */
-  color: red;
-
-}
-::placeholder {
-  color: red;
-}
-
 /*-------------------------------------------Footer--------------*/
 
 footer {

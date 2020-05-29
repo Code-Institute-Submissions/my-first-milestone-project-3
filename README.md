@@ -37,6 +37,7 @@ Milestone Project 1
 -   #### V3.1 Amend placeholder color in form.
 -   #### V3.2 Amends to main nav bar and text updates.
 -   #### V3.3 Amends from W3C Markup Validator (p within an h2).
+-   #### V3.4 Amends form W3C CSS Validator (placeholder syntax removed).
 
 
 ## Image Credits
