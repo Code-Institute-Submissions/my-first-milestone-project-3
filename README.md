@@ -36,6 +36,7 @@ Milestone Project 1
 -   #### V3.0 Fixed navbar to float on top with z index.
 -   #### V3.1 Amend placeholder color in form.
 -   #### V3.2 Amends to main nav bar and text updates.
+-   #### V3.3 Amends from W3C Markup Validator (p within an h2).
 
 
 ## Image Credits
