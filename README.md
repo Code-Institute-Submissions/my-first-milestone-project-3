@@ -43,6 +43,7 @@ Milestone Project 1
 -   #### V3.7 Further image optimisation for gif.
 -   #### V3.8 Smaller images optimised as gif.
 -   #### V3.9 Typo amends in content.
+-   #### V4.0 Further content and heading space amends.
 
 
 ## Image Credits
