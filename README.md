@@ -26,6 +26,7 @@ Milestone Project 1
 -   ### V2.3 Amended image box text styles.
 -   ### V2.4 Added contacts page for form design.
 -   ### V2.5 Amended contacts page structure form design.
+-   ### V2.6 Updated for contact form media query less than 543px.
 
 
 ## Image Credits
