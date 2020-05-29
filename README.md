@@ -35,6 +35,7 @@ Milestone Project 1
 -   #### V2.9.3 Amended form max width to 300px.
 -   #### V3.0 Fixed navbar to float on top with z index.
 -   #### V3.1 Amend placeholder color in form.
+-   #### V3.2 Amends to main nav bar and text updates.
 
 
 ## Image Credits
