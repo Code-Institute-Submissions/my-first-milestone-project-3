@@ -260,10 +260,8 @@ footer {
 }
 
 .social-networks {
-    position: relative;
-    right: 0;
-    margin: 25px;
-    width: auto;
+    text-align: center;
+
 }
 
 .social-networks li {
@@ -272,10 +270,9 @@ footer {
 }
 
 .social-networks i {
-    font-size: 100%;
-    border-radius: 50%;
-    color: #777777;
-    background-color: #bfbfbf;
+    font-size: 110%;
+    padding: 0 15px;
+    color: #fff;
     
 }
 

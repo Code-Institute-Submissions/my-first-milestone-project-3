@@ -48,6 +48,7 @@ Milestone Project 1
 -   #### V4.2 New images for contacts page.
 -   #### V4.3 Amend to readme stock image content.
 -   #### V4.4 Image changes to contacts page, font change for navbar.
+-   #### V4.5 Style updates to footer.
 
 ## Image Credits
 
