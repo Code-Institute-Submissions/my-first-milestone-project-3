@@ -56,6 +56,7 @@ Milestone Project 1
 -   #### V5.0 Updated for tour summary on contacts page.
 -   #### V5.1 Further updates to tour summary in contacts page.
 -   #### V5.2 Typographical change to tour summary.
+-   #### V5.3 Increase font weight on ride text.
 
 ## Image Credits
 
