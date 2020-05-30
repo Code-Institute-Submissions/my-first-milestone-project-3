@@ -53,6 +53,7 @@ Milestone Project 1
 -   #### V4.7 Updated for tel no on social paragraph.
 -   #### V4.8 Added check box in form.
 -   #### V4.9 Amended first box title.
+-   #### V5.0 Updated for tour summary on contacts page.
 
 ## Image Credits
 
