@@ -54,6 +54,7 @@ Milestone Project 1
 -   #### V4.8 Added check box in form.
 -   #### V4.9 Amended first box title.
 -   #### V5.0 Updated for tour summary on contacts page.
+-   #### V5.1 Further updates to tour summary in contacts page.
 
 ## Image Credits
 
