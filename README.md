@@ -55,6 +55,7 @@ Milestone Project 1
 -   #### V4.9 Amended first box title.
 -   #### V5.0 Updated for tour summary on contacts page.
 -   #### V5.1 Further updates to tour summary in contacts page.
+-   #### V5.2 Typographical change to tour summary.
 
 ## Image Credits
 
