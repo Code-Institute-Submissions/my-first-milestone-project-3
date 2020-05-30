@@ -51,6 +51,7 @@ Milestone Project 1
 -   #### V4.5 Style updates to footer.
 -   #### V4.6 Amended screen size adjustments for potrait tablet.
 -   #### V4.7 Updated for tel no on social paragraph.
+-   #### V4.8 Added check box in form.
 
 ## Image Credits
 
