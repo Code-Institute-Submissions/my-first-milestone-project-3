@@ -49,6 +49,7 @@ Milestone Project 1
 -   #### V4.3 Amend to readme stock image content.
 -   #### V4.4 Image changes to contacts page, font change for navbar.
 -   #### V4.5 Style updates to footer.
+-   #### V4.6 Amended screen size adjustments for potrait tablet.
 
 ## Image Credits
 
