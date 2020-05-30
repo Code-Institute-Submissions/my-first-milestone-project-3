@@ -62,9 +62,9 @@ body {
 
 /* Navbar links */
 #topnav a {
-  font-family: "Roboto";
+  font-family: "Exo";
   font-weight: 300;
-  font-size: 20px;
+  font-size: 18px;
   float: left;
   color: #f2f2f2;
   text-align: center;
@@ -84,7 +84,7 @@ body {
     overflow: hidden;
     font-family: "Exo", sans-serif;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 25px;
     text-align: center;
     padding: 20px 0;
     border-top-left-radius: 8px;
@@ -160,7 +160,7 @@ body {
 }
 
 .contact-small {
-    background-image: url("../images/cabin.gif");
+    background-image: url("../images/domitiaself.gif");
 
 }
 
