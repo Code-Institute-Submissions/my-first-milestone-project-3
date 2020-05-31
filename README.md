@@ -59,6 +59,7 @@ Milestone Project 1
 -   #### V5.3 Increase font weight on ride text.
 -   #### V5.4 Amends to change tel number to text.
 -   #### V5.5 Removed Bootstrap JS scripts at bottom of pages.
+-   #### V5.6 Increase image box min height from 600px to 900px.
 
 ## Image Credits
 
