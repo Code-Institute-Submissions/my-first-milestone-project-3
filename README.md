@@ -60,6 +60,7 @@ Milestone Project 1
 -   #### V5.4 Amends to change tel number to text.
 -   #### V5.5 Removed Bootstrap JS scripts at bottom of pages.
 -   #### V5.6 Increase image box min height from 600px to 900px.
+-   #### V5.7 Reverted image box min height from 900px to 600px.
 
 ## Image Credits
 
