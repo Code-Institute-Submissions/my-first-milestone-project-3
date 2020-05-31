@@ -282,3 +282,11 @@ footer {
   font-size: 15px;
   
 }
+
+@media screen and (min-width: 1800px) {
+
+.image-box {
+    min-height: 900px;
+}
+
+}
