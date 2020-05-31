@@ -62,6 +62,7 @@ Milestone Project 1
 -   #### V5.6 Increase image box min height from 600px to 900px.
 -   #### V5.7 Reverted image box min height from 900px to 600px.
 -   #### V5.8 Media query for screens 1800px image box 900px.
+-   #### V5.9 Media query syntax amend.
 
 ## Image Credits
 
