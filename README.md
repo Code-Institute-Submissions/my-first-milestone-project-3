@@ -65,6 +65,7 @@ Milestone Project 1
 -   #### V5.9 Media query syntax amend.
 -   #### V6.0 Amend food and culture narrative to be more generic to food types.
 -   #### V6.1 Update for Adobe Image credits.
+-   #### V6.2 Update for Adobe Image credit for names.
 
 ## Image Credits
 
@@ -291,7 +292,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise stated.
 
--   ### Home page header image - Mont Canigou et chaîne des Pyrénées Orientales By Frederic © stock.adobe.com
+-   ### Home page header image - [Mont Canigou et chaîne des Pyrénées Orientales](https://stock.adobe.com/uk/contributor/207321023/frederic?load_type=author&prev_url=detail) By Frederic © stock.adobe.com
 
 ### Acknowledgements
 
