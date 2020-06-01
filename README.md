@@ -66,6 +66,7 @@ Milestone Project 1
 -   #### V6.0 Amend food and culture narrative to be more generic to food types.
 -   #### V6.1 Update for Adobe Image credits.
 -   #### V6.2 Update for Adobe Image credit for names.
+-   #### V6.3 Update media query for screens px image box 1200px.
 
 ## Image Credits
 

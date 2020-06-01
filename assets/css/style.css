@@ -291,3 +291,11 @@ footer {
 }
 
 }
+
+@media screen and (min-width: 2500px) {
+
+.image-box {
+    min-height: 1200px;
+}
+
+}
