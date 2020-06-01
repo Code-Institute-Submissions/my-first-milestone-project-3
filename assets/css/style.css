@@ -290,12 +290,22 @@ footer {
     min-height: 900px;
 }
 
+.ride-text .form-box {
+    font-size: 20px;
+
+}
+
 }
 
 @media screen and (min-width: 2500px) {
 
-.image-box {
-    min-height: 1200px;
+.image-box .image-box-form {
+    min-height: 1500px;
+}
+
+.ride-text .form-box {
+    font-size: 25px;
+
 }
 
 }
