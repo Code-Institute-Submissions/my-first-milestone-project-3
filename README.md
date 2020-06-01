@@ -64,6 +64,7 @@ Milestone Project 1
 -   #### V5.8 Media query for screens 1800px image box 900px.
 -   #### V5.9 Media query syntax amend.
 -   #### V6.0 Amend food and culture narrative to be more generic to food types.
+-   #### V6.1 Update for Adobe Image credits.
 
 ## Image Credits
 
@@ -286,7 +287,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were created by the developer.
+## Image Credits
+
+All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise stated.
+
+-   ### Home page header image - Mont Canigou et chaîne des Pyrénées Orientales By Frederic © stock.adobe.com
 
 ### Acknowledgements
 
