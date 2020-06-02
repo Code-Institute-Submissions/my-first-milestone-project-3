@@ -70,6 +70,7 @@ Milestone Project 1
 -   #### V6.4 Update font sizes for screens 1800px 20px 2500px 25px.
 -   #### V6.5 Amend navbar to switch to bars for mobile.
 -   #### V6.6 Amend page names for navbar menu.
+-   #### V6.7 Amend for correct syntax on page names for navbar menu.
 
 ## Image Credits
 
