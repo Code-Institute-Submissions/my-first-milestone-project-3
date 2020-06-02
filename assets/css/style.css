@@ -111,6 +111,23 @@
 
 }
 
+.ride-text-bottom {
+    overflow: hidden;
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    padding: 8px;
+    margin: 0 15px 0 0;
+    position: absolute;
+    bottom: 0;
+
+}
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -160,12 +177,14 @@
 }
 
 .contact-small {
-    background-image: url("../images/domitiaself.gif");
+    background-color: #000;
+   /* background-image: url("../images/domitiaself.gif");*/
 
 }
 
 .contact-medium {
-    background-image: url("../images/collioure.gif");
+    background-color: #000;
+   /* background-image: url("../images/collioure.gif");*/
 
 }
 /*-------------------------------------------Form--------------*/
