@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
     <script src="https://kit.fontawesome.com/5fa1d9dfaf.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/style.css" type="text/css">
     <title>MTB & Gravel Bike Tours Catalonia & Pyrenees</title>
@@ -14,14 +17,25 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-md-12 bg">
-					<div class="topnav fixed-top" id="myTopnav">
-                        <a href="index.html">Home</a>
-                        <a href="tours.html">Tours</a>
-                        <a href="contact.html" class="active">Contact Us</a>
-                        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-                            <i class="fas fa-bars"></i>
-                        </a>
-                    </div>
+					<nav class="navbar navbar-expand-sm topnav fixed-top navbar-dark">
+                        <a class="navbar-brand" href="#"></a>
+                            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="index.html">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="tours.html">Tours</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active" href="contact.html">Contact Us</a>
+                                </li>
+                            </ul>
+                        </div>  
+                    </nav>
 					<div class="header-text">
 						<h2>MTB & Gravel Bike Tours</h2>
 							<h3>Catalonia & Pyrenees</h3>
