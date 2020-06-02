@@ -68,6 +68,7 @@ Milestone Project 1
 -   #### V6.2 Update for Adobe Image credit for names.
 -   #### V6.3 Update media query for screens 2500px image box 1200px.
 -   #### V6.4 Update font sizes for screens 1800px 20px 2500px 25px.
+-   #### V6.5 Amend navbar to switch to bars for mobile.
 
 ## Image Credits
 
