@@ -72,6 +72,7 @@ Milestone Project 1
 -   #### V6.6 Amend page names for navbar menu.
 -   #### V6.7 Amend for correct syntax on page names for navbar menu.
 -   #### V6.8 Further amends for navbar icon fixing and scroll bar fix.
+-   #### V6.9 Added Bootstrap scripts for the navbar for small screens.
 
 ## Image Credits
 
