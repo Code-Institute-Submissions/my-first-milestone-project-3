@@ -18,8 +18,8 @@
 .header-text h2 {
 	font-family: "Exo", sans-serif;
 	font-weight: 600;
-	font-size: 50px;
-	letter-spacing: 5px;
+	font-size: 40px;
+	/*letter-spacing: 5px;*/
 	text-align: center;
     text-transform: uppercase;
 	padding-top: 140px;
@@ -29,8 +29,8 @@
 .header-text h3 {
 	font-family: "Exo", sans-serif;
 	font-weight: 600;
-	font-size: 50px;
-	letter-spacing: 5px;
+	font-size: 30px;
+	/*letter-spacing: 5px;*/
 	text-align: center;
     text-transform: uppercase;
 	padding: 10px 0;
@@ -179,17 +179,19 @@
 }
 
 .contact-small {
-   /* background-color: rgba(60, 60, 60, 0.6);*/
-   background-image: url("../images/domitiaself.gif");
+   background-color: rgba(60, 60, 60, 0.6);
+  /* background-image: url("../images/domitiaself.gif");*/
 
 }
 
 .contact-medium {
-   /* background-color: rgba(60, 60, 60, 0.6);*/
-   background-image: url("../images/collioure.gif");
+   background-color: rgba(60, 60, 60, 0.6);
+   /*background-image: url("../images/collioure.gif");*/
 
 }
 /*-------------------------------------------Form--------------*/
+
+/* https://getbootstrap.com/docs/4.5/components/forms/ for inspiration */
 
 .image-box-form {
     background-position: center;
@@ -226,6 +228,11 @@
    border:1px solid #fafafa;
    border-radius: 2px;
 }
+
+/*https://getbootstrap.com/docs/4.5/components/forms/#default-stacked  for the check box source */
+
+
+/* https://www.w3schools.com/css/css3_buttons.asp */
 
 .submit-button {
     margin: 20px;
