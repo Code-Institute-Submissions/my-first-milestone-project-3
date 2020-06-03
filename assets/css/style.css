@@ -103,7 +103,7 @@
     background-color: rgba(60, 60, 60, .4);
     max-width: 300px;
     padding: 10px;
-    border-radius: 12px;
+    border-radius: 8px;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -119,8 +119,8 @@
     text-align: center;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    border-bottom-left-radius: 12px;
-    border-bottom-right-radius: 12px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
     padding: 8px;
     margin: 0 15px 0 0;
     position: absolute;
@@ -177,14 +177,14 @@
 }
 
 .contact-small {
-    background-color: #000;
-   /* background-image: url("../images/domitiaself.gif");*/
+   /* background-color: rgba(60, 60, 60, 0.6);*/
+   background-image: url("../images/domitiaself.gif");
 
 }
 
 .contact-medium {
-    background-color: #000;
-   /* background-image: url("../images/collioure.gif");*/
+   /* background-color: rgba(60, 60, 60, 0.6);*/
+   background-image: url("../images/collioure.gif");
 
 }
 /*-------------------------------------------Form--------------*/

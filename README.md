@@ -2,79 +2,6 @@ Milestone Project 1
 
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
-
-### Version control
-
--   #### V1.0 Initial commit.
--   #### V1.1 Added header image, navbar and header text.
--   #### V1.2 Amended page names for cross reference on nav.
--   #### V1.3 Amends to navbar for bootstrap convention and coloring.
--   #### V1.4 Added basic footer and social network icons.
--   #### V1.5 Added footer content, structure and color.
--   #### V1.6 Added section content including images in index page.
--   #### V1.7 Added section image structure and content.
--   #### V1.8 Amended bootstrap col div to accomodate three columns.
--   #### V1.9 Amended margin on central images.
--   #### V1.9.1 Further margin amendments on central images.
--   #### V1.9.2 Amended central image minimum height.
--   #### V1.9.3 Further image height adjustments.
--   #### V1.9.4 Amends to footer wording, margin and code tidy.
--   #### V1.9.5 Amended body image min-height.
--   #### V2.0 Updated for stock images bike tours and landscape.
--   #### V2.1 Updated for tours page and additional images.
--   #### V2.2 Updated image box styles.
--   #### V2.3 Amended image box text styles.
--   #### V2.4 Added contacts page for form design.
--   #### V2.5 Amended contacts page structure form design.
--   #### V2.6 Updated for contact form media query less than 543px.
--   #### V2.7 Amended form type for Bootstrap type.
--   #### V2.8 Amended form position in media query less than 543px.
--   #### V2.9 Further amends to form position media query less than 543px.
--   #### V2.9.1 Further amends for form position on mobile.
--   #### V2.9.2 Further amends for form on mobile.
--   #### V2.9.3 Amended form max width to 300px.
--   #### V3.0 Fixed navbar to float on top with z index.
--   #### V3.1 Amend placeholder color in form.
--   #### V3.2 Amends to main nav bar and text updates.
--   #### V3.3 Amends from W3C Markup Validator (p within an h2).
--   #### V3.4 Amends form W3C CSS Validator (placeholder syntax removed).
--   #### V3.5 Converted canigou jpeg to png for upload optimisation.
--   #### V3.6 Header style changes.
--   #### V3.7 Further image optimisation for gif.
--   #### V3.8 Smaller images optimised as gif.
--   #### V3.9 Typo amends in content.
--   #### V4.0 Further content and heading space amends.
--   #### V4.1 Update to contacts page and form layout.
--   #### V4.2 New images for contacts page.
--   #### V4.3 Amend to readme stock image content.
--   #### V4.4 Image changes to contacts page, font change for navbar.
--   #### V4.5 Style updates to footer.
--   #### V4.6 Amended screen size adjustments for potrait tablet.
--   #### V4.7 Updated for tel no on social paragraph.
--   #### V4.8 Added check box in form.
--   #### V4.9 Amended first box title.
--   #### V5.0 Updated for tour summary on contacts page.
--   #### V5.1 Further updates to tour summary in contacts page.
--   #### V5.2 Typographical change to tour summary.
--   #### V5.3 Increase font weight on ride text.
--   #### V5.4 Amends to change tel number to text.
--   #### V5.5 Removed Bootstrap JS scripts at bottom of pages.
--   #### V5.6 Increase image box min height from 600px to 900px.
--   #### V5.7 Reverted image box min height from 900px to 600px.
--   #### V5.8 Media query for screens 1800px image box 900px.
--   #### V5.9 Media query syntax amend.
--   #### V6.0 Amend food and culture narrative to be more generic to food types.
--   #### V6.1 Update for Adobe Image credits.
--   #### V6.2 Update for Adobe Image credit for names.
--   #### V6.3 Update media query for screens 2500px image box 1200px.
--   #### V6.4 Update font sizes for screens 1800px 20px 2500px 25px.
--   #### V6.5 Amend navbar to switch to bars for mobile.
--   #### V6.6 Amend page names for navbar menu.
--   #### V6.7 Amend for correct syntax on page names for navbar menu.
--   #### V6.8 Further amends for navbar icon fixing and scroll bar fix.
--   #### V6.9 Added Bootstrap scripts for the navbar for small screens.
--   #### V7.0 Moved image text to bottom of image for better image clarity.
-
 ## Image Credits
 
 -   ### © Author Name - stock.adobe.com (to complete)
@@ -135,14 +62,14 @@ This is the main marketing website for Code Institute. It is designed to be resp
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+1. [Bootstrap 4.5.0:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+    - Font Awesome was used on all pages for the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
 1. [Git](https://git-scm.com/)
@@ -150,7 +77,7 @@ This is the main marketing website for Code Institute. It is designed to be resp
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
-    - Photoshop was used to create the logo, resizing images and editing photos for the website.
+    - Photoshop was used to resize images and edit photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
 
@@ -282,11 +209,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+-   [Bootstrap4](https://getbootstrap.com/docs/4.5/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+-   {W3Schools}(https://www.w3schools.com/howto/default.asp): W3Schools was used extensively throughout the project to make the site responsive, spacing and positioning of txt, add effects to images and for the Bootsrap Grid System.
 
 ### Content
 
@@ -302,9 +227,85 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 
 -   ### Home page header image - [Mont Canigou et chaîne des Pyrénées Orientales](https://stock.adobe.com/uk/contributor/207321023/frederic?load_type=author&prev_url=detail) By Frederic © stock.adobe.com
 
+-   ### ...tbc...
+
 ### Acknowledgements
 
 -   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
 
+-   Other students (Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/)
+
+### Version control
+
+-   #### V1.0 Initial commit.
+-   #### V1.1 Added header image, navbar and header text.
+-   #### V1.2 Amended page names for cross reference on nav.
+-   #### V1.3 Amends to navbar for bootstrap convention and coloring.
+-   #### V1.4 Added basic footer and social network icons.
+-   #### V1.5 Added footer content, structure and color.
+-   #### V1.6 Added section content including images in index page.
+-   #### V1.7 Added section image structure and content.
+-   #### V1.8 Amended bootstrap col div to accomodate three columns.
+-   #### V1.9 Amended margin on central images.
+-   #### V1.9.1 Further margin amendments on central images.
+-   #### V1.9.2 Amended central image minimum height.
+-   #### V1.9.3 Further image height adjustments.
+-   #### V1.9.4 Amends to footer wording, margin and code tidy.
+-   #### V1.9.5 Amended body image min-height.
+-   #### V2.0 Updated for stock images bike tours and landscape.
+-   #### V2.1 Updated for tours page and additional images.
+-   #### V2.2 Updated image box styles.
+-   #### V2.3 Amended image box text styles.
+-   #### V2.4 Added contacts page for form design.
+-   #### V2.5 Amended contacts page structure form design.
+-   #### V2.6 Updated for contact form media query less than 543px.
+-   #### V2.7 Amended form type for Bootstrap type.
+-   #### V2.8 Amended form position in media query less than 543px.
+-   #### V2.9 Further amends to form position media query less than 543px.
+-   #### V2.9.1 Further amends for form position on mobile.
+-   #### V2.9.2 Further amends for form on mobile.
+-   #### V2.9.3 Amended form max width to 300px.
+-   #### V3.0 Fixed navbar to float on top with z index.
+-   #### V3.1 Amend placeholder color in form.
+-   #### V3.2 Amends to main nav bar and text updates.
+-   #### V3.3 Amends from W3C Markup Validator (p within an h2).
+-   #### V3.4 Amends form W3C CSS Validator (placeholder syntax removed).
+-   #### V3.5 Converted canigou jpeg to png for upload optimisation.
+-   #### V3.6 Header style changes.
+-   #### V3.7 Further image optimisation for gif.
+-   #### V3.8 Smaller images optimised as gif.
+-   #### V3.9 Typo amends in content.
+-   #### V4.0 Further content and heading space amends.
+-   #### V4.1 Update to contacts page and form layout.
+-   #### V4.2 New images for contacts page.
+-   #### V4.3 Amend to readme stock image content.
+-   #### V4.4 Image changes to contacts page, font change for navbar.
+-   #### V4.5 Style updates to footer.
+-   #### V4.6 Amended screen size adjustments for potrait tablet.
+-   #### V4.7 Updated for tel no on social paragraph.
+-   #### V4.8 Added check box in form.
+-   #### V4.9 Amended first box title.
+-   #### V5.0 Updated for tour summary on contacts page.
+-   #### V5.1 Further updates to tour summary in contacts page.
+-   #### V5.2 Typographical change to tour summary.
+-   #### V5.3 Increase font weight on ride text.
+-   #### V5.4 Amends to change tel number to text.
+-   #### V5.5 Removed Bootstrap JS scripts at bottom of pages.
+-   #### V5.6 Increase image box min height from 600px to 900px.
+-   #### V5.7 Reverted image box min height from 900px to 600px.
+-   #### V5.8 Media query for screens 1800px image box 900px.
+-   #### V5.9 Media query syntax amend.
+-   #### V6.0 Amend food and culture narrative to be more generic to food types.
+-   #### V6.1 Update for Adobe Image credits.
+-   #### V6.2 Update for Adobe Image credit for names.
+-   #### V6.3 Update media query for screens 2500px image box 1200px.
+-   #### V6.4 Update font sizes for screens 1800px 20px 2500px 25px.
+-   #### V6.5 Amend navbar to switch to bars for mobile.
+-   #### V6.6 Amend page names for navbar menu.
+-   #### V6.7 Amend for correct syntax on page names for navbar menu.
+-   #### V6.8 Further amends for navbar icon fixing and scroll bar fix.
+-   #### V6.9 Added Bootstrap scripts for the navbar for small screens.
+-   #### V7.0 Moved image text to bottom of image for better image clarity.
+-   #### V7.1 Amends to the README text.
