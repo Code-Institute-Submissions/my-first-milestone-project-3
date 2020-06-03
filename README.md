@@ -310,3 +310,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V7.0 Moved image text to bottom of image for better image clarity.
 -   #### V7.1 Amends to the README text.
 -   #### V7.2 Increased font weight in central text boxes.
+-   #### V7.3 Updated social network link for screen scrape.
