@@ -95,7 +95,7 @@
 
 .ride-text {
     font-family: "Exo", sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 15px;
     word-spacing: 2px;
     text-align: center;
@@ -105,7 +105,7 @@
     padding: 10px;
     border-radius: 8px;
     position: absolute;
-    top: 50%;
+    top: 60%;
     left: 50%;
     transform: translate(-50%, -50%)
 
@@ -114,7 +114,7 @@
 .ride-text-bottom {
     overflow: hidden;
     font-family: "Exo", sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 15px;
     text-align: center;
     color: #fff;

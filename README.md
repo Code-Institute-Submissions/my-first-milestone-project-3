@@ -309,3 +309,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V6.9 Added Bootstrap scripts for the navbar for small screens.
 -   #### V7.0 Moved image text to bottom of image for better image clarity.
 -   #### V7.1 Amends to the README text.
+-   #### V7.2 Increased font weight in central text boxes.
