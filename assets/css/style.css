@@ -5,7 +5,7 @@
 /*-------------------------------------------Header--------------*/
 
 .bg {
-  /* The image used */
+  /* The header image used */
   background-image: url("../images/canigoupan.gif");
   background-position: center;
   background-repeat: no-repeat;
@@ -47,6 +47,7 @@
 }
 
 /* The navbar */
+/*. Source for code: https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_navbar_collapse */
 .topnav {
   overflow: hidden;
   background-color: rgba(20, 20, 20, 0.5);
@@ -68,7 +69,7 @@
 }
 
 .topnav a.active {
-    background-color: rgba(60, 60, 60, 0.5);
+    background-color: rgba(60, 60, 60, 0.7);
     color:#fff;
 }
 
@@ -238,6 +239,7 @@
 }
 
 /*-------------------------------------------Footer--------------*/
+/* Used the 'Rosie Resume Bootstrap Example Project' as a source for code structure and design */
 
 footer {
     margin-top: 10px;
@@ -312,6 +314,9 @@ footer {
 
 }
 
+/* Project requirements are for images and content to satisy larger screens up to 4D 
+
+- The below media queries are designed for the images and content to 'fill' larger screens and show that images do not 'pixelate' */
 
 @media screen and (min-width: 1800px) {
 

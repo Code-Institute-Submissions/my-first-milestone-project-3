@@ -312,3 +312,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V7.2 Increased font weight in central text boxes.
 -   #### V7.3 Updated social network link for screen scrape.
 -   #### V7.4 Added padding to bottom on image bottom text.
+-   #### V7.5 Updated css file for comments for code.
