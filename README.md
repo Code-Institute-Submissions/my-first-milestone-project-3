@@ -316,3 +316,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V7.6 Removed images from contact page, tour text moved to bottom of image, amended headers, amended for css syntax error in last social item footer.clear
 -   #### V7.7 Backup contact page as contact2 ready for changes.
 -   #### V7.8 Update to header box on contacts page.
+-   #### V7.9 Update bottom container on contacts page for form.
