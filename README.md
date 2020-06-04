@@ -317,3 +317,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V7.7 Backup contact page as contact2 ready for changes.
 -   #### V7.8 Update to header box on contacts page.
 -   #### V7.9 Update bottom container on contacts page for form.
+-   #### V8.0 Update form format on contacts page for inline.

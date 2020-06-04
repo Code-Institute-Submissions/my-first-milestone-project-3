@@ -215,7 +215,48 @@
 
 }
 
-.form-box {
+label {
+  /*padding: 12px 12px 12px 0;*/
+  display: inline-block;
+}
+
+.container {
+    border-radius: 5px;
+   /* background-color: #f2f2f2;*/
+    padding: 20px;
+
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+   /* text-align: left;
+    max-width: 400px;
+    margin: 30px 30px 30px 100px;*/
+    color: #fff;
+    background-color: rgba(60, 60, 60, .5);
+    /*padding: 20px;
+    border-radius: 8px;*/
+}
+
+.col-25 {
+    float: left;
+    width: 25%;
+    margin-top: 6px;
+}
+
+.col-75 {
+    float: left;
+    width: 75%;
+    margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/*.form-box {
     font-family: "Exo", sans-serif;
     font-weight: 400;
     font-size: 15px;
@@ -227,16 +268,17 @@
     padding: 20px;
     border-radius: 8px;
 
-}
+}*/
 
 .form-control {
-   background:transparent;
-   color:#fff;
-   width:100%;
-   height: 25px;
-   margin: 5px 0 20px 0;
-   border:1px solid #fafafa;
-   border-radius: 2px;
+    background:transparent;
+    color:#fff;
+   /*width:100%;*/
+    height: 20px;
+  /* margin: 5px 0 20px 0;*/
+    /*padding: 12px;*/
+    border:1px solid #fafafa;
+    border-radius: 2px;
 }
 
 /*https://getbootstrap.com/docs/4.5/components/forms/#default-stacked  for the check box source */
