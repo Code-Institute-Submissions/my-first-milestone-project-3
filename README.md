@@ -319,3 +319,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V7.9 Update bottom container on contacts page for form.
 -   #### V8.0 Update form format on contacts page for inline.
 -   #### V8.1 Updated form inline, before check box.
+-   #### V8.2 Updated check box inline format.
