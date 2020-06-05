@@ -320,3 +320,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V8.0 Update form format on contacts page for inline.
 -   #### V8.1 Updated form inline, before check box.
 -   #### V8.2 Updated check box inline format.
+-   #### V8.3 Amends to form box and contact box format.
