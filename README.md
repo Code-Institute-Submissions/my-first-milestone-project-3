@@ -330,3 +330,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V9.0 Contact details and formats added.
 -   #### V9.1 Resized MTB Bike-Pack image.
 -   #### V9.2 Updates to contact page image box formats.
+-   #### V9.3 Amended border radius on contact form box.
