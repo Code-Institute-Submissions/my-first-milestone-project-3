@@ -143,6 +143,19 @@
 
 }
 
+.image-box-small {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+   /* border-top-left-radius: 8px;
+    border-top-right-radius: 8px;*/
+    margin: -8px 0 8px 0;
+    max-width: 100%;
+    height: 400px;
+   /* padding-bottom: 8px;*/
+
+}
+
 .bike-touring {
     background-image: url("../images/mtbseated.gif");
     
@@ -174,8 +187,8 @@
 }
 
 .contact-small {
-   background-color: rgba(60, 60, 60, 0.6);
-  /* background-image: url("../images/domitiaself.gif");*/
+   /*background-color: rgba(60, 60, 60, 0.6);*/
+    background-image: url("../images/mtbdolmitiaroad.gif");
 
 }
 
@@ -183,6 +196,20 @@
    background-color: rgba(60, 60, 60, 0.6);
    /*background-image: url("../images/collioure.gif");*/
 
+}
+
+.blur-image {
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(8px);
+  
+  /* Full height */
+  height: 100%; 
+  
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 /*-----------------------------------------------------ContactPage-----------*/
@@ -285,7 +312,7 @@ label {
     /*max-width: 400px;*/
     margin-top: 10px;
     color: #fff;
-    background-color: rgba(60, 60, 60, .5);
+    background-color: rgba(60, 60, 60, .6);
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
