@@ -235,7 +235,7 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 
 -   Tutor support at Code Institute for their support.
 
--   Other students (Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/)
+-   Other students (Slack Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/)
 
 ### Version control
 
@@ -327,3 +327,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V8.7 Amends to itinery boxes for image layout.
 -   #### V8.8 Images update to itineries.
 -   #### V8.9 Image box update with small headers.
+-   #### V9.0 Contact details and formats added.
