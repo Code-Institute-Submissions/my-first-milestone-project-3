@@ -328,3 +328,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V8.8 Images update to itineries.
 -   #### V8.9 Image box update with small headers.
 -   #### V9.0 Contact details and formats added.
+-   #### V9.1 Resized MTB Bike-Pack image.
