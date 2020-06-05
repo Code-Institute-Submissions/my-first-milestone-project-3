@@ -317,6 +317,20 @@ label {
     background-color: #fff;
     color:#4d4d4d;
 }
+/*------------------------------------------------Testimonials--------------------*/
+
+.container img {
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+}
+
+.container span {
+  font-size: 20px;
+  margin-right: 15px;
+}
+
+
 
 /*-------------------------------------------Footer--------------*/
 /* Used the 'Rosie Resume Bootstrap Example Project' as a source for code structure and design */
