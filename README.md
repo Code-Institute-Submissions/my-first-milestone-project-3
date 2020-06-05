@@ -326,3 +326,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V8.6 Updates to format on contact and form boxes.
 -   #### V8.7 Amends to itinery boxes for image layout.
 -   #### V8.8 Images update to itineries.
+-   #### V8.9 Image box update with small headers.
