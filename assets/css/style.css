@@ -150,7 +150,7 @@
    /* border-top-left-radius: 8px;
     border-top-right-radius: 8px;*/
     margin: -8px 0 8px 0;
-    max-width: 100%;
+    width: 100%;
     height: 400px;
    /* padding-bottom: 8px;*/
 
@@ -188,7 +188,17 @@
 
 .contact-small {
    /*background-color: rgba(60, 60, 60, 0.6);*/
-    background-image: url("../images/mtbdolmitiaroad.gif");
+    background-image: url("../images/peachescanigou.gif");
+
+}
+
+.camprodon {
+    background-image: url("../images/camprodon.gif");
+
+}
+
+.bivouac {
+    background-image: url("../images/tentedebivouac.gif");
 
 }
 
