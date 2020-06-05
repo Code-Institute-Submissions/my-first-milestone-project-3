@@ -218,7 +218,7 @@
  /* https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_responsive_form */
 
 label {
-  /*padding: 12px 12px 12px 0;*/
+  padding-left: 12px;
   display: inline-block;
 }
 
@@ -277,19 +277,20 @@ label {
   margin: 20px 0 0 20px;
 }
 
-/*.form-box {
+.form-box {
     font-family: "Exo", sans-serif;
     font-weight: 400;
     font-size: 15px;
-    text-align: left;
-    max-width: 400px;
-    margin: 30px 30px 30px 100px;
+    /*text-align: left;*/
+    /*max-width: 400px;*/
+    margin-top: 10px;
     color: #fff;
     background-color: rgba(60, 60, 60, .5);
-    padding: 20px;
+    padding: 30px;
     border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
-}*/
+}
 
 .form-control {
     background:transparent;
@@ -317,19 +318,6 @@ label {
     background-color: #fff;
     color:#4d4d4d;
 }
-/*------------------------------------------------Testimonials--------------------*/
-
-.container img {
-  float: left;
-  margin-right: 20px;
-  border-radius: 50%;
-}
-
-.container span {
-  font-size: 20px;
-  margin-right: 15px;
-}
-
 
 
 /*-------------------------------------------Footer--------------*/
@@ -396,15 +384,27 @@ footer {
 
  @media screen and (max-width: 543px) {
 
-.form-box {
+/*.form-box {
     margin: 30px;
 
-}
+}*/
 
 .topnav a {
-  font-size: 15px;
+    font-size: 15px;
   
 }
+
+/* Responsive layout - when the screen is less than 543px wide, make the two columns stack on top of each other instead of next to each other */
+
+.col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+
+label {
+    padding: 0;
+
+  }
 
 }
 

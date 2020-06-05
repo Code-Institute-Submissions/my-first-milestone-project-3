@@ -323,3 +323,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V8.3 Amends to form box and contact box format.
 -   #### V8.4 Amend to our details container format.
 -   #### V8.5 Addition of itinery boxes.
+-   #### V8.6 Updates to format on contact and form boxes.
