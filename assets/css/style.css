@@ -410,6 +410,11 @@ footer {
 
 }
 
+.footer-text i {
+    padding-left: 5px;
+
+}
+
 .itinery-pdf i {
     font-size: 18px;
     color: #fafafa;
