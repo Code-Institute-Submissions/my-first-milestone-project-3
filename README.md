@@ -339,3 +339,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V9.9 Updates to itineries.
 -   #### V10.0 Itinery details added to tours.
 -   #### V10.1 Itinery word amends to tours.
+-   #### V10.2 Itinery details aended.
