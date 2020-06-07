@@ -345,3 +345,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V10.5 Amends to contact page itinery text.
 -   #### V10.6 Further amends to contact page itinery text.
 -   #### V10.7 Further amends to contact page itinery text.
+-   #### V10.8 Fixed itinery text box height consistancy.
