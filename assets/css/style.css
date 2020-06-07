@@ -151,8 +151,6 @@
 
 }
 
-
-
 /*------------------------------------------The images used----------------------------------------*/
 
 .bike-touring {
@@ -274,6 +272,11 @@
     text-align: center;
     color: #fff;
     padding: 5px 15px 5px 15px;
+
+}
+
+.ride-text-contact-details i:hover {
+    color:#b22222;
 
 }
 
@@ -404,6 +407,7 @@ footer {
 
 .itinery-pdf i:hover {
     color:#b22222;
+
 }
 
 .social-networks {
@@ -423,6 +427,10 @@ footer {
     
 }
 
+.social-networks i:hover {
+    color:#b22222;
+
+}
 /*-------------------------------------------MediaQueries--------------------------------------*/
 
  @media screen and (max-width: 543px) {
