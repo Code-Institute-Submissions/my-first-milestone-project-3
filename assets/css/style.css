@@ -250,7 +250,7 @@
 
 /*---------------------------------Provides space between icon and text in our details box------------------------*/
 
-.image-box-form-contact i {
+.image-box-form-header i {
     padding: 0 5px;
 }
 
@@ -295,6 +295,11 @@
    /* background-color: rgba(60, 60, 60, .4);
     max-width: 300px;
     border-radius: 8px;*/
+
+}
+
+.ride-text h5 {
+    margin: 20px 0;
 
 }
 
