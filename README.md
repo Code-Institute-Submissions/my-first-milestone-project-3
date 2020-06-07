@@ -349,3 +349,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V10.9 Amended itinery header margin.
 -   #### V11.0 Updated css code for commented out changes.
 -   #### V11.1 Text amends to image descriptions.
+-   #### V11.2 Increase image box size.
