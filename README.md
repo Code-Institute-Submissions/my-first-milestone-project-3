@@ -343,3 +343,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V10.3 Itinery details updated.
 -   #### V10.4 Contact page code improvements for itinery text.
 -   #### V10.5 Amends to contact page itinery text.
+-   #### V10.6 Further amends to contact page itinery text.
