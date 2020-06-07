@@ -347,3 +347,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V10.7 Further amends to contact page itinery text.
 -   #### V10.8 Fixed itinery text box height consistancy.
 -   #### V10.9 Amended itinery header margin.
+-   #### V11.0 Updated css code for commented out changes.

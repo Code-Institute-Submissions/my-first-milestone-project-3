@@ -15,24 +15,21 @@
 
 }
 
+.header-text {
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: #fff;
+}
+
 .header-text h2 {
-	font-family: "Exo", sans-serif;
-	font-weight: 600;
 	font-size: 40px;
-	text-align: center;
-    text-transform: uppercase;
 	padding-top: 140px;
-	color: #fff;
 }
 
 .header-text h3 {
-	font-family: "Exo", sans-serif;
-	font-weight: 600;
 	font-size: 30px;
-	text-align: center;
-    text-transform: uppercase;
 	padding: 10px 0;
-	color: #fff;
 }
 
 .uppercase {
@@ -73,9 +70,6 @@
   font-weight: 500;
   font-size: 18px;
   float: left;
-  /*display: block;*/
-  /*color: #fff;*/
-  /*text-align: center;*/
   padding: 15px;
   text-decoration: underline;
   
@@ -151,12 +145,9 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size:cover;
-   /* border-top-left-radius: 8px;
-    border-top-right-radius: 8px;*/
     margin: -8px 0 8px 0;
     width: 100%;
     min-height: 400px;
-   /* padding-bottom: 8px;*/
 
 }
 
@@ -211,38 +202,27 @@
 
 .contact-medium {
    background-color: rgba(60, 60, 60, 0.6);
-   /*background-image: url("../images/collioure.gif");*/
 
 }
 
 /*-----------------------------------------------------ContactPage------------------------*/
 
 .image-box-form-header {
-    /*background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;*/
     background-color: rgba(60, 60, 60, 0.6);
     width: 100%;
     height: auto;
     margin: 10px 0 0 0;
     border-radius: 8px;
-    /*border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;*/
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
 
 .image-box-form-contact {
-    /*background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;*/
     background-color: rgba(60, 60, 60, 0.6);
     width: 100%;
     height: 800px;
     margin: 10px 0 0 0;
     border-radius: 8px;
-    /*border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;*/
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
 }
@@ -253,20 +233,6 @@
 .image-box-form-header i {
     padding: 0 5px;
 }
-
-/*
-.image-box-form {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size:cover;
-    width: 100%;
-    min-height: 900px;
-    margin: 10px 0 0 0;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-}
-*/
 
 /*-----------------------Itinery header formats on contact page-------------------------------------*/
 
@@ -292,9 +258,6 @@
     text-align: center;
     color: #fff;
     padding: 0 15px 5px 15px;
-   /* background-color: rgba(60, 60, 60, .4);
-    max-width: 300px;
-    border-radius: 8px;*/
 
 }
 
@@ -311,9 +274,6 @@
     text-align: center;
     color: #fff;
     padding: 5px 15px 5px 15px;
-   /* background-color: rgba(60, 60, 60, .4);
-    max-width: 300px;
-    border-radius: 8px;*/
 
 }
 
@@ -355,8 +315,6 @@ label {
     font-family: "Exo", sans-serif;
     font-weight: 400;
     font-size: 15px;
-    /*text-align: left;*/
-    /*max-width: 400px;*/
     margin-top: 10px;
     color: #fff;
     background-color: rgba(60, 60, 60, .6);
@@ -371,10 +329,7 @@ label {
 .form-control {
     background:transparent;
     color:#fff;
-   /*width:100%;*/
     height: 25px;
-  /* margin: 5px 0 20px 0;*/
-    /*padding: 12px;*/
     border:1px solid #fafafa;
     border-radius: 2px;
 }
@@ -471,18 +426,6 @@ footer {
 /*-------------------------------------------MediaQueries--------------------------------------*/
 
  @media screen and (max-width: 543px) {
-
-/*.form-box {
-    margin: 30px;
-
-}*/
-
-/*
-.topnav a {
-    font-size: 15px;
-  
-}
-*/
 
 /* Responsive layout for Form - when the screen is less than 543px wide, make the two columns stack on top of each other instead of next to each other */
 
