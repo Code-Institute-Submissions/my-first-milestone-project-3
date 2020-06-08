@@ -4,7 +4,7 @@ Milestone Project 1
 
 The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees region. It also advertises attractive reasons for the tourist visitor in terms of the geography, history, culture and culinary delights. As it is primarily a ‘tourist’ website attracting B2C, the websites main aim is to appeal emotionally to people who would wish to experience the region by bike.
 
-The site went through the high level structure and design process [here](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/documents/CI%20-%20Milestone%20Project%201%20(Richard%20Read).pdf)
+The site went through the high level structure and design process per the Code Institute UXD structure [here](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/documents/CI%20-%20Milestone%20Project%201%20(Richard%20Read).pdf).
 
 ## User Experience (UX)
 
@@ -437,3 +437,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.7 Text amends in README.
 -   #### V12.8 Upload for strategy document.
 -   #### V12.9 Link for strategy document added.
+-   #### V13.0 Wording updates for README.
