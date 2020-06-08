@@ -352,3 +352,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V11.2 Increase image box size.
 -   #### V11.3 Further adjustment to image box size.
 -   #### V11.4 Update pdf download link for example.
+-   #### V11.5 Added new download pdf for sample itineries.
