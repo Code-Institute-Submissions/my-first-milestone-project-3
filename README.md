@@ -20,7 +20,7 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
         1. Find information about tours on offer.
         2. Find alternative ways to get in contact with the organisation with any questions I may have.
         3. Download any further information via the download link.
-        4. Subit contact details via the form submission.
+        4. Submit contact details via the form submission.
         5. Find social links to view specific activity like write ups, images or videos..
 
     -   #### Frequent User Goals
@@ -432,3 +432,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.4 Tests on browsers and iphone types amended.
 -   #### V12.5 Removed image files, added wireframe image to credits.
 -   #### V12.6 Further amends to the user story testing.
+-   #### V12.7 Text amends in README.
