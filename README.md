@@ -99,9 +99,9 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 1. [Bootstrap 4.5.0:](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
-    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+    - Hover.css was used on the contact details types and for social media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Exo' (main content in all pages) and 'Roboto' (for footer) fonts into the style.css file which are used on all pages.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages for the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
@@ -126,7 +126,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 
-The Am I Responsive Services were used to validate every page of the project was responsive across a range of device types.
+The Am I Responsive site was used to validate every page of the project was responsive across a range of device types.
 
 -   [Am I Responsive:](http://ami.responsivedesign.is/#) - [Results](http://ami.responsivedesign.is/?url=https%3A%2F%2Freadri205.github.io%2Fmy-first-milestone-project%2F#)
 
@@ -423,3 +423,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.9 Added credit link to CI README TEMPLATE PDF.
 -   #### V12.0 Moved wireframes directory to assets directory.
 -   #### V12.1 Update wireframe link for mobile contacts page.
+-   #### V12.2 Amend for css parse error in w3c css validator test.
