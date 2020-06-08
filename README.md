@@ -42,43 +42,46 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
     
 
 -   ### Wireframes
-
-    The images used in this wireframe may not be the final images used in the website.
     
-    The site consists of three pages;
+    -   The site consists of three pages;
 
-    1. Home page: draws potential customer through the core activity and the regional attractions.
-    2. Tours page: draws potential customer through high level description of the types of tours available.
-    3. Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
+        -   Home page: draws potential customer through the core activity and the regional attractions.
+        -   Tours page: draws potential customer through high level description of the types of tours available.
+        -   Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
 
-    -   Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Home.png)
+    -   The links below show each of the respective wireframe page design for desktop and mobile;
 
-    -   Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Tours.png)
+        -   Desktop - Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Home.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Contacts.png)
+        -   Desktop - Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Tours.png)
 
-    -   Mobile Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Home.png)
+        -   Desktop - Contact Us Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Contacts.png)
 
-    -   Mobile Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Tours.png)
+        -   Mobile - Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Home.png)
 
-    -   Mobile Contacts Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Home.png)
+        -   Mobile - Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Tours.png)
 
-    -   Mobile Footer Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Scroll%20Down%20to%20Footer.png)
+        -   Mobile - Contacts Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Home.png)
 
-        - Navbar will sit on top of header image but will be fixed on scroll down. The Navbar text will be white on an opaque grey background.
+        -   Mobile - Footer Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Scroll%20Down%20to%20Footer.png)
 
-        - Middle section of each page will contain three image boxes with relevant text contained and entered within.
+            -   The Navbar will sit on top of the header image but will be fixed on scroll down. The Navbar text will be white on an opaque grey background.
 
-        - The footer will also be three sections with traditional ‘About’, ‘Download’ and ‘Social’ sections.
+            -   Middle section of each page will contain three image boxes with relevant text contained and entered within.
 
-        - All three pages will have same image and text look and feel.
+            -   The footer will also be three sections with traditional ‘About’, ‘Download’ and ‘Social’ sections.
 
-    -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
+            -   All three pages will have same image and text look and feel.
 
-    -   Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
+        -   Responsive design for screen size less than 992px:
+            
+            -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
 
-    -   Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
+            -   Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
 
+            -   Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
+
+    -   The images used in this wireframe may not be the final images used in the website.
 
 ## Features
 
@@ -417,3 +420,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.9 Format amends to README file.
 -   #### V11.4 Addition of Am I Responsive credit.
 -   #### V11.5 Further text amends to README.
+-   #### V11.6 Structural amends to wireframe section of README.
