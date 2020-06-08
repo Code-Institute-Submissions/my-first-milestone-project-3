@@ -37,9 +37,8 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
         -   The two main colour used is grey in order to provide a neutral contrast to the colour images and to highlight different sections of the website.
 
     -   #### Typography
-        -   The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case the Exo font isn't being imported into the site correctly. Eo is used in the main sections, as whilst it is clin and crisp, its curved edges make it less formal and more engaging to the user. The Roboto font is used in the footer section. Roboto is used in this section as it is a clean and crisp font, more direct and business-like in style as a user is searching for specific information in this section.
+        -   The Exo font is the main font used throughout the whole website. Exo is used in the main sections, as whilst it is clean and crisp, its curved edges make it less formal and more engaging to the user. The Roboto font is used in the footer section. Roboto is used in this section as it is a clean and crisp font, but with a more direct and business-like in style as a user is searching for specific information in this section. If the Exo and Roboto fonts do not feed through, the fall back option is sans-serif.
     
-
 -   ### Wireframes
     
     -   The site consists of three pages;
@@ -74,7 +73,7 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
     -   Responsive design for screen size less than 992px:
             
-        -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
+        -   At screen sizes 992px or less: the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxes and the footer section. The footer section will remain horizontal.
 
         -   Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
 
@@ -135,16 +134,16 @@ The Am I Responsive Services were used to validate every page of the project was
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. The user wants to easily understand the main purpose of the site and learn more about the organisation.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Across the top is an easy to access menu that is fixed in place on scroll.
-        2. The main points are made immediately on the front page as to the sites purpose nd what is offered.
-        3. The user read more details by clicking through to the Tours page and subsequently the Contac Us page.
+        1. Upon entering the site, users are greeted with a clean and easily readable navigation bar to go to the page of their choice. Across the top is an easy to access menu that is fixed in place on scroll.
+        2. The main points are made immediately on the front page as to the sites purpose and what is offered.
+        3. The user view more details by clicking through to the Tours page and subsequently the Contact Us page.
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. The user wants to be able to easily be able to navigate throughout the site to find content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. As the user scrolls down through the page or any page the useer is still ale to immediately access the menu options to navigate the site.
+        1. The site has been designed to be fluid with easy navigation. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
+        2. As the user scrolls down through the page or any page the user is still able to immediately access the menu options to navigate the site.
         3. The Contact page allows the user to use a number of methods to contact the organisation.
         3. On the Contact Us Page, details are offered of tours and there is a form to submit for more details.
 
@@ -252,7 +251,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
--   All content was written by the developer.
+-   All website content was written by the developer.
+
+-   Content and structure for the README file was taken from [The Code Institute README Template]().
 
 -   Images used were sourced from [© stock.adobe.com](https://stock.adobe.com/uk/).
 
@@ -418,3 +419,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.5 Further text amends to README.
 -   #### V11.6 Structural amends to wireframe section of README.
 -   #### V11.7 Text updates to user stories.
+-   #### V11.8 Text amends on user stories, typography and add CI README TEMPLATE.
