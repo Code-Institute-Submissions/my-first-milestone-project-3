@@ -2,9 +2,6 @@ Milestone Project 1
 
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
-
-<h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTITUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
-
 The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees region. It also advertises attractive reasons for the tourist visitor in terms of the geography, history, culture and culinary delights. As it is primarily a ‘tourist’ website attracting B2C, the websites main aim is to appeal emotionally to people who would wish to experience the region by bike.
 
 ## User Experience (UX)
@@ -15,19 +12,21 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
         1. Easily understand the main purpose of the site and learn more about the organisation in terms of their culture and style.
         2. Easily navigate throughout the site to find content about tours and how they are offered.
-        3. Look for details on how I can contact them, either immediately or passively though a form.
-        4. See what more I can find on social media.
+        3. Look for details on how the user can get in contact either immediately or passively though a form.
+        4. See what more information of write ups, images and videos on social media.
 
     -   #### Returning Visitor Goals
 
         1. Find information about tours on offer.
         2. Find alternative ways to get in contact with the organisation with any questions I may have.
-        3. Find social links.
+        3. Download any further information via the download link.
+        4. Subit contact details via the form submission.
+        5. Find social links to view specific activity like write ups, images or videos..
 
     -   #### Frequent User Goals
         1. Check to see if there are any newly added tours, destinations or pricing amendments.
-        2. Check to see if there are any new social activity posts.
-        3. Sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        2. Check to see if there are any new social activity write ups, images or videos.
+        3. Submit contact details if not already done so.
 
 -   ### Design
 
@@ -38,7 +37,7 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
         -   The two main colour used is grey in order to provide a neutral contrast to the colour images and to highlight different sections of the website.
 
     -   #### Typography
-        -   The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Roboto font is used in the footer section.
+        -   The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case the Exo font isn't being imported into the site correctly. Eo is used in the main sections, as whilst it is clin and crisp, its curved edges make it less formal and more engaging to the user. The Roboto font is used in the footer section. Roboto is used in this section as it is a clean and crisp font, more direct and business-like in style as a user is searching for specific information in this section.
     
 
 -   ### Wireframes
@@ -73,13 +72,13 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
             -   All three pages will have same image and text look and feel.
 
-        -   Responsive design for screen size less than 992px:
+    -   Responsive design for screen size less than 992px:
             
-            -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
+        -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
 
-            -   Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
+        -   Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
 
-            -   Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
+        -   Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
 
     -   The images used in this wireframe may not be the final images used in the website.
 
@@ -156,15 +155,16 @@ The Am I Responsive Services were used to validate every page of the project was
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new tours or activities.
+    1. As a Returning Visitor, a user wants to find out about the new tours or activities.
 
         1. These are clearly shown in the tours page.
         2. They will be directed to a download file for further information.
+        3. If the user has signed up using the form they will also receive regular email updates.
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation through a number of contact methods.
+        2. Here they can fill out the form on the page or they can message the organisation through a number of contact methods.
         3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
         4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
 
@@ -179,7 +179,7 @@ The Am I Responsive Services were used to validate every page of the project was
         1. The user would already be comfortable with the website layout and can easily click the social network links.
 
     3. As a Frequent User, I want to sign up using the form so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
+        1. At the bottom of every page their is a footer which is consistent throughout all pages.
         2. On the contact page the user is prompted to enter their contact details.
         3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
@@ -193,10 +193,6 @@ The Am I Responsive Services were used to validate every page of the project was
 ### Known Bugs
 
 -   On a mobile iphone using the safari browser the telephone numbers appear as blue text rather than white.
-
--   -On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.-
-    -   -A white gap can be seen to the right of the footer and navigation bar as a result.-
--   -On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.-
 
 ## Deployment
 
@@ -421,3 +417,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.4 Addition of Am I Responsive credit.
 -   #### V11.5 Further text amends to README.
 -   #### V11.6 Structural amends to wireframe section of README.
+-   #### V11.7 Text updates to user stories.
