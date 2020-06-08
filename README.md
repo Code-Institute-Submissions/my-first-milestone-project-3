@@ -40,9 +40,15 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
         -   The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Roboto font is used in the footer section.
     
 
-*   ### Wireframes
+-   ### Wireframes
 
     The images used in this wireframe may not be the final images used in the website.
+    
+    The site consists of three pages;
+
+    1. Home page: draws potential customer through the core activity and the regional attractions.
+    2. Tours page: draws potential customer through high level description of the types of tours available.
+    3. Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
 
     -   Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Home.png)
 
@@ -58,19 +64,13 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
     -   Mobile Footer Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Scroll%20Down%20to%20Footer.png)
 
-    The site consists of three pages;
+        - Navbar will sit on top of header image but will be fixed on scroll down. The Navbar text will be white on an opaque grey background.
 
-    1. Home page: draws potential customer through the core activity and the regional attractions.
-    2. Tours page: draws potential customer through high level description of the types of tours available.
-    3. Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
+        - Middle section of each page will contain three image boxes with relevant text contained and entered within.
 
-        * Navbar will sit on top of header image but will be fixed on scroll down. The Navbar text will be white on an opaque grey background.
+        - The footer will also be three sections with traditional ‘About’, ‘Download’ and ‘Social’ sections.
 
-        * Middle section of each page will contain three image boxes with relevant text contained and entered within.
-
-        * The footer will also be three sections with traditional ‘About’, ‘Download’ and ‘Social’ sections.
-
-        * All three pages will have same image and text look and feel.
+        - All three pages will have same image and text look and feel.
 
     -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
 
@@ -253,7 +253,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   All content was written by the developer.
 
--   Images used were sourced from [© stock.adobe.com](https://stock.adobe.com/uk/)].
+-   Images used were sourced from [© stock.adobe.com](https://stock.adobe.com/uk/).
 
 ### Media
 
@@ -412,3 +412,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.6 Updates for image credits in README file.
 -   #### V11.7 Updates to README text file.
 -   #### V11.8 Further updates to README file.
+-   #### V11.9 Format amends to README file.
