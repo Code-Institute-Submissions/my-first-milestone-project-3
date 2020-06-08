@@ -145,42 +145,37 @@ The Am I Responsive site was used to validate every page of the project was resp
         1. The site has been designed to be fluid with easy navigation. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
         2. As the user scrolls down through the page or any page the user is still able to immediately access the menu options to navigate the site.
         3. The Contact page allows the user to use a number of methods to contact the organisation.
-        3. On the Contact Us Page, details are offered of tours and there is a form to submit for more details.
-
-    3. As a First Time Visitor, I want to look for social media details to see what activities are communicated about the organisation.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can croll to the bottom of any page on the site to locate social media links in the footer.
-        3. Next to the form, the user is given communication mechanisms..
+        4. On the Contact Us Page, details are offered of tours and there is a form to submit for more details.
+        6. The footer page has a phone contact number and the footer is on the bottom of every page.
+        6. More details can be obtained by downlaoding the extra details in the footer section.
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, a user wants to find out about the new tours or activities.
+    1. A user wants to find out about the new tours or activities.
 
         1. These are clearly shown in the tours page.
         2. They will be directed to a download file for further information.
         3. If the user has signed up using the form they will also receive regular email updates.
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+    2. The user wants to find out the best way to get in contact with the organisation with any questions.
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
         2. Here they can fill out the form on the page or they can message the organisation through a number of contact methods.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+        4. The footer contains links to the organisations Facebook, Twitter Youtube and Instagram.
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added tours.
+    1. The user wants to check to see if there are any newly added tours.
 
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
+        1. The user would already be comfortable with the website layout and can easily click the tour page and contact us page.
 
-    2. As a Frequent User, I want to check to see if there are any new social media activity.
+    2. The user wants to check to see if there are any new social media activity.
 
         1. The user would already be comfortable with the website layout and can easily click the social network links.
 
-    3. As a Frequent User, I want to sign up using the form so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which is consistent throughout all pages.
-        2. On the contact page the user is prompted to enter their contact details.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+    3. The user wants to sign up using the form so that they are emailed any major updates and/or changes to the website or organisation.
+        1. The contact us page has a form for the user contact details to be submitted.
+        3. There is a "Submit" button at the bottom of the form.
 
 ### Further Testing
 
@@ -436,3 +431,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.3 Upload W3C Validator Check Results.
 -   #### V12.4 Tests on browsers and iphone types amended.
 -   #### V12.5 Removed image files, added wireframe image to credits.
+-   #### V12.6 Further amends to the user story testing.
