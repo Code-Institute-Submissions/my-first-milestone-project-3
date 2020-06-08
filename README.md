@@ -184,8 +184,8 @@ The Am I Responsive site was used to validate every page of the project was resp
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+-   The Website was tested on Google Chrome, Mozilla Firefox, Microsoft Edge and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, iPad Pro, iPhone6 & iPhoneX.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
@@ -287,7 +287,7 @@ The images used will be sized appropriately to allow for optimised loading of pa
 
 ### Acknowledgements
 
--   My Mentor for continuous helpful feedback.
+-   My Mentor (Adegbenga Adeye (email:adegbenga.adeye@outlook.com, slack:gbenga_mentor)) for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
 
@@ -425,3 +425,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.1 Update wireframe link for mobile contacts page.
 -   #### V12.2 Amend for css parse error in w3c css validator test.
 -   #### V12.3 Upload W3C Validator Check Results.
+-   #### V12.4 Tests on browsers and iphone types amended.
