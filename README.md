@@ -123,8 +123,8 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/documents/W3C%20Validator%20Checks.pdf)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/documents/W3C%20Validator%20Checks.pdf)
 
 The Am I Responsive site was used to validate every page of the project was responsive across a range of device types.
 
@@ -424,3 +424,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.0 Moved wireframes directory to assets directory.
 -   #### V12.1 Update wireframe link for mobile contacts page.
 -   #### V12.2 Amend for css parse error in w3c css validator test.
+-   #### V12.3 Upload W3C Validator Check Results.
