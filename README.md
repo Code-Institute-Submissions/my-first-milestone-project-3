@@ -447,3 +447,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.9 Link for strategy document added.
 -   #### V13.0 Wording updates for README.
 -   #### V13.1 Additions to Features section.
+-   #### V13.2 Updated styles for phone hovers on contacts page.
