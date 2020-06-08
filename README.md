@@ -2,13 +2,10 @@ Milestone Project 1
 
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
-## Image Credits
-
--   ### © Author Name - stock.adobe.com (to complete)
 
 <h2 align="center">**"BELOW TEXT IS DERIVED FROM THE CODE INSTITUTE README.md SAMPLE DOC AND IS NOT YET UPDATED FOR MS1 PROJECT CONTENT"**</h2>
 
-This is the main marketing website for Code Institute. It is designed to be responsibe and accessible on a range of devices, making it easy to navigate for potential students and partners.
+The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees region. It also advertises attractive reasons for the tourist visitor in terms of the geography, history, culture and culinary delights. As it is primarily a ‘tourist’ website attracting B2C, the websites main aim is to appeal emotionally to people who would wish to experience the region by bike.
 
 ## User Experience (UX)
 
@@ -32,20 +29,55 @@ This is the main marketing website for Code Institute. It is designed to be resp
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 -   ### Design
-    -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
-    -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   As it is an ‘emotionally’ driven marketing tool, the website makes extreme use of graphic imagery, over laid with text content to add further appeal.
+
+    -   #### Colour Scheme
+        -   The two main colour used is grey in order to provide a neutral contrast to the colour images and to highlight different sections of the website.
+
+    -   #### Typography
+        -   The Exo font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Roboto font is used in the footer section.
+    
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    The images used in this wireframe may not be the final images used in the website.
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Home.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    -   Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Tours.png)
+
+    -   Contact Us Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Desktop%20-%20Contacts.png)
+
+    -   Mobile Home Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Home.png)
+
+    -   Mobile Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Tours.png)
+
+    -   Mobile Contacts Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Home.png)
+
+    -   Mobile Footer Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/wireframes/Mobile%20-%20Scroll%20Down%20to%20Footer.png)
+
+    The site consists of three pages;
+
+            1. Home page: draws potential customer through the core activity and the regional attractions.
+            2. Tours page: draws potential customer through high level description of the types of tours available.
+            3. Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
+
+        * Navbar will sit on top of header image but will be fixed on scroll down. The Navbar text will be white on an opaque grey background.
+
+        * Middle section of each page will contain three image boxes with relevant text contained and entered within.
+
+        * The footer will also be three sections with traditional ‘About’, ‘Download’ and ‘Social’ sections.
+
+        * All three pages will have same image and text look and feel.
+
+        At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
+
+        Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
+
+        Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
+
 
 ## Features
 
@@ -72,11 +104,13 @@ This is the main marketing website for Code Institute. It is designed to be resp
     - Font Awesome was used on all pages for the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
     - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-1. [Git](https://git-scm.com/)
+1. [GitPod](https://www.gitpod.io/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+    - Photoshop was used to resize images and edit photos for the website.
+1. [Adobe Stock:](https://stock.adobe.com/uk/)
     - Photoshop was used to resize images and edit photos for the website.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
@@ -153,9 +187,11 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    -   A white gap can be seen to the right of the footer and navigation bar as a result.
--   On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
+-   On a mobile iphone using the safari browser the telephone numbers appear as blue text rather than white.
+
+-   -On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.-
+    -   -A white gap can be seen to the right of the footer and navigation bar as a result.-
+-   -On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.-
 
 ## Deployment
 
@@ -211,19 +247,21 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.5/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
--   {W3Schools}(https://www.w3schools.com/howto/default.asp): W3Schools was used extensively throughout the project to make the site responsive, spacing and positioning of txt, add effects to images and for the Bootsrap Grid System.
+-   [W3Schools](https://www.w3schools.com/howto/default.asp): W3Schools was used extensively throughout the project to make the site responsive, spacing and positioning of text, add effects to images and for the Bootsrap Grid System.
 
 ### Content
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+-   Images used were sourced from [© stock.adobe.com](https://stock.adobe.com/uk/)].
 
 ### Media
 
-## Image Credits
+#### Image Credits
 
 All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise stated.
+
+The images used will be sized appropriately to allow for optimised loading of page content on the internet.
 
 *   Home page header image - [Mont Canigou et chaîne des Pyrénées Orientales](https://stock.adobe.com/uk/contributor/207321023/frederic?load_type=author&prev_url=detail) By Frederic © stock.adobe.com
 
@@ -254,6 +292,8 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   Other students (Slack Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/)
 
 ### Version control
+
+Amendments and updates to the website files ahve been recorderd below for each GitPod load into the GitHub repository. Each GitPod load has been annotated with a high level summary of the updates and changes made fo each load.
 
 -   #### V1.0 Initial commit.
 -   #### V1.1 Added header image, navbar and header text.
@@ -370,3 +410,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V11.4 Update pdf download link for example.
 -   #### V11.5 Added new download pdf for sample itineries.
 -   #### V11.6 Updates for image credits in README file.
+-   #### V11.7 Updates to README text file.
