@@ -59,7 +59,7 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
         -   Mobile - Tour Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/wireframes/Mobile%20-%20Tours.png)
 
-        -   Mobile - Contacts Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/wireframes/Mobile%20-%20Home.png)
+        -   Mobile - Contacts Page Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/wireframes/Mobile%20-%20Contacts.png)
 
         -   Mobile - Footer Wireframe - [View](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/wireframes/Mobile%20-%20Scroll%20Down%20to%20Footer.png)
 
@@ -422,3 +422,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.8 Text amends on user stories, typography and add CI README TEMPLATE.
 -   #### V11.9 Added credit link to CI README TEMPLATE PDF.
 -   #### V12.0 Moved wireframes directory to assets directory.
+-   #### V12.1 Update wireframe link for mobile contacts page.
