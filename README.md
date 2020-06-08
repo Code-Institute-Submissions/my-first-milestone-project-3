@@ -253,7 +253,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   All website content was written by the developer.
 
--   Content and structure for the README file was taken from [The Code Institute README Template]().
+-   Content and structure for the README file was taken from [The Code Institute README Template](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/documents/CI%20README%20TEMPLATE.pdf).
 
 -   Images used were sourced from [© stock.adobe.com](https://stock.adobe.com/uk/).
 
@@ -420,3 +420,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.6 Structural amends to wireframe section of README.
 -   #### V11.7 Text updates to user stories.
 -   #### V11.8 Text amends on user stories, typography and add CI README TEMPLATE.
+-   #### V11.9 Added credit link to CI README TEMPLATE PDF.
