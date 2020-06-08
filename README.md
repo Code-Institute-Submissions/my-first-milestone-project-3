@@ -2,6 +2,10 @@ Milestone Project 1
 
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
+<h2>MTB & GRAVEL BIKE TOURS</h2>
+
+<h3>CATALONIA & PYRENEES</h3>
+
 The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees region. It also advertises attractive reasons for the tourist visitor in terms of the geography, history, culture and culinary delights. As it is primarily a ‘tourist’ website attracting B2C, the websites main aim is to appeal emotionally to people who would wish to experience the region by bike.
 
 The organisation is new and not yet in operation. More details in terms of tour content, social link and pricing will be developed in the near future. The site currently is structured as an initial draft that will be developed further as the business is developed.
@@ -451,3 +455,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V13.1 Additions to Features section.
 -   #### V13.2 Updated styles for phone hovers on contacts page.
 -   #### V13.3 Features update to note non-active social communication links.
+-   #### V13.4 Updated for README header for project.
