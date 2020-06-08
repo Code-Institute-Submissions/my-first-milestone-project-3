@@ -285,6 +285,11 @@ The images used will be sized appropriately to allow for optimised loading of pa
 
 *   Contact Us Page - MTB Bike-Pack image - [Tente de bivouac en montagne pour camper](https://stock.adobe.com/uk/contributor/207516793/ourson?load_type=author&prev_url=detail) By ourson © stock.adobe.com
 
+Images used in wireframes not used in website;
+
+*   [Cadaques, Costa Brava, Spain](https://stock.adobe.com/uk/contributor/200946438/valery-bareta?load_type=author&prev_url=detail) By Valery Bareta © stock.adobe.com
+
+
 ### Acknowledgements
 
 -   My Mentor (Adegbenga Adeye (email:adegbenga.adeye@outlook.com, slack:gbenga_mentor)) for continuous helpful feedback.
@@ -292,6 +297,10 @@ The images used will be sized appropriately to allow for optimised loading of pa
 -   Tutor support at Code Institute for their support.
 
 -   Other students (Slack Code Institute Workspace) on the Full Stack Developer Course, via the [Slack Communication Platform](https://slack.com/intl/en-gb/)
+
+-   Friends and family providing review and feedback on the site content and navigation.
+
+-   Friends for which the site is being designed for their review and feedback on the site content and navigation.
 
 ### Version control
 
@@ -426,3 +435,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.2 Amend for css parse error in w3c css validator test.
 -   #### V12.3 Upload W3C Validator Check Results.
 -   #### V12.4 Tests on browsers and iphone types amended.
+-   #### V12.5 Removed image files, added wireframe image to credits.
