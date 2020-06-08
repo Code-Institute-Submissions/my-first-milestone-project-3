@@ -114,6 +114,8 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
     - Adobe Stock was used as a library source for images.
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/Readri205/my-first-milestone-project/tree/master/wireframes) during the design process.
+1. [Am I Responsive:](http://ami.responsivedesign.is/#)
+    - Am I Responsive was used to test the page layouts during the build process.  [Results](http://ami.responsivedesign.is/?url=https%3A%2F%2Freadri205.github.io%2Fmy-first-milestone-project%2F#)
 
 ## Testing
 
@@ -121,6 +123,10 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+
+The Am I Responsive Services were used to validate every page of the project was responsive across a range of device types.
+
+-   [Am I Responsive:](http://ami.responsivedesign.is/#) - [Results](http://ami.responsivedesign.is/?url=https%3A%2F%2Freadri205.github.io%2Fmy-first-milestone-project%2F#)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -413,3 +419,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.7 Updates to README text file.
 -   #### V11.8 Further updates to README file.
 -   #### V11.9 Format amends to README file.
+-   #### V11.4 Addition of Am I Responsive credit.
