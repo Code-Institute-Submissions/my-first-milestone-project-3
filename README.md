@@ -4,6 +4,8 @@ Milestone Project 1
 
 The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees region. It also advertises attractive reasons for the tourist visitor in terms of the geography, history, culture and culinary delights. As it is primarily a ‘tourist’ website attracting B2C, the websites main aim is to appeal emotionally to people who would wish to experience the region by bike.
 
+The organisation is new and not yet in operation. More details in terms of tour content, social link and pricing will be developed in the near future. The site currently is structured as an initial draft that will be developed further as the business is developed.
+
 The site went through the high level structure and design process per the Code Institute UXD structure [here](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/documents/CI%20-%20Milestone%20Project%201%20(Richard%20Read).pdf).
 
 ## User Experience (UX)
@@ -87,7 +89,13 @@ The site went through the high level structure and design process per the Code I
 
 -   Responsive on all device sizes
 
--   Interactive elements
+-   Business features will be developed as the new business is developed, to provide more content on tour details, a more extensive list of tours and tour types and a more extensive pricing structure.
+
+-   The website is designed to be expanded with the current structure by providing more pages on tours and tour details.
+
+-   Extensive social media will also be developed in conjunction with the website and the website will include direct social media interaction (write-ups, images, videos).
+
+-   It is expected that the site ccan be used to create an extensive customer database with full interactivity with the customer base.
 
 ## Technologies Used
 
@@ -438,3 +446,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V12.8 Upload for strategy document.
 -   #### V12.9 Link for strategy document added.
 -   #### V13.0 Wording updates for README.
+-   #### V13.1 Additions to Features section.
