@@ -97,6 +97,8 @@ The site went through the high level structure and design process per the Code I
 
 -   It is expected that the site ccan be used to create an extensive customer database with full interactivity with the customer base.
 
+-   The communication icons, whilst hover effects are active, the links do not yet create actual communication links and will be added at a later date when the comunications are live.
+
 ## Technologies Used
 
 ### Languages Used
@@ -448,3 +450,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V13.0 Wording updates for README.
 -   #### V13.1 Additions to Features section.
 -   #### V13.2 Updated styles for phone hovers on contacts page.
+-   #### V13.3 Features update to note non-active social communication links.
