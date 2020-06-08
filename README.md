@@ -225,9 +225,25 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise stated.
 
--   ### Home page header image - [Mont Canigou et chaîne des Pyrénées Orientales](https://stock.adobe.com/uk/contributor/207321023/frederic?load_type=author&prev_url=detail) By Frederic © stock.adobe.com
+*   Home page header image - [Mont Canigou et chaîne des Pyrénées Orientales](https://stock.adobe.com/uk/contributor/207321023/frederic?load_type=author&prev_url=detail) By Frederic © stock.adobe.com
 
--   ### ...tbc...
+*   Home Page - Bike Touring image - [Ciclista desde las alturas](https://stock.adobe.com/uk/contributor/207343020/dani-gallego?load_type=author&prev_url=detail) By Dani Gallego © stock.adobe.com
+
+*   Home Page - Landscape image - [village catalan](https://stock.adobe.com/uk/contributor/89020/tilio-paolo?load_type=author&prev_url=detail) By Tilio & Paulo © stock.adobe.com
+
+*   Home Page - Food & Culture image - [escalivada, typical vegetables dish of Catalonia, Spain](https://stock.adobe.com/uk/contributor/200982272/nito?load_type=author&prev_url=detail) By nito © stock.adobe.com
+
+*   Tours Page - Day Tours image - [El camino del ciclista](https://stock.adobe.com/uk/contributor/207343020/dani-gallego?load_type=author&prev_url=detail) By Dani Gallego © stock.adobe.com
+
+*   Tours Page - Ride The Pirinexus image - [Costa Brava, Spain](https://stock.adobe.com/uk/contributor/203229653/hansgeel?load_type=author&prev_url=detail) By hansgeel © stock.adobe.com
+
+*   Tours Page - MTB Bike-Pack image - [Camping in the Pyrenees mountains, Catalonia, Spain](https://stock.adobe.com/uk/contributor/206241573/andrii-lutsyk?load_type=author&prev_url=detail) By andrii_lutsyk © stock.adobe.com
+
+*   Contact Us Page - Day Tours image - [Peaches and Canigou](https://stock.adobe.com/uk/contributor/206516383/alain-ortiz?load_type=author&prev_url=detail) By Alain Ortiz © stock.adobe.com
+
+*   Contact Us Page - Ride The Pirinexus image - [Stone bridge and river in Camprodon, Spain](https://stock.adobe.com/uk/contributor/205785199/kovgabor79?load_type=author&prev_url=detail) By kovgabor79 © stock.adobe.com
+
+*   Contact Us Page - MTB Bike-Pack image - [Tente de bivouac en montagne pour camper](https://stock.adobe.com/uk/contributor/207516793/ourson?load_type=author&prev_url=detail) By ourson © stock.adobe.com
 
 ### Acknowledgements
 
@@ -353,3 +369,4 @@ All images [© stock.adobe.com](https://stock.adobe.com/uk/) unless otherwise st
 -   #### V11.3 Further adjustment to image box size.
 -   #### V11.4 Update pdf download link for example.
 -   #### V11.5 Added new download pdf for sample itineries.
+-   #### V11.6 Updates for image credits in README file.
