@@ -60,9 +60,9 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
     The site consists of three pages;
 
-            1. Home page: draws potential customer through the core activity and the regional attractions.
-            2. Tours page: draws potential customer through high level description of the types of tours available.
-            3. Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
+    1. Home page: draws potential customer through the core activity and the regional attractions.
+    2. Tours page: draws potential customer through high level description of the types of tours available.
+    3. Contact page: summarises the tours, indicates price of tours and allows for contact and enquiry to be made, through form submission, phone call or both.
 
         * Navbar will sit on top of header image but will be fixed on scroll down. The Navbar text will be white on an opaque grey background.
 
@@ -72,11 +72,11 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 
         * All three pages will have same image and text look and feel.
 
-        At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
+    -   At screen sizes 992px or less the central image boxes will move from horizontal and stack vertically.  It will be required to scroll down the page to view the next image boxe and the footer section. The footer section will remain horizontal.
 
-        Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
+    -   Mobile: the three central images will move to vertical to occupy the full width of the screen. To see the below sections it will be required to scroll down the page.
 
-        Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
+    -   Mobile: the footer thee sections will each occupy the full width of the screen but each section will position vertically. To see the below sections it will be required to scroll down the page.
 
 
 ## Features
@@ -111,9 +111,9 @@ The site is advertising MTB & Gravel bike tours in the Catalonia and Pyrenees re
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to resize images and edit photos for the website.
 1. [Adobe Stock:](https://stock.adobe.com/uk/)
-    - Photoshop was used to resize images and edit photos for the website.
+    - Adobe Stock was used as a library source for images.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the [wireframes](https://github.com/Readri205/my-first-milestone-project/tree/master/wireframes) during the design process.
 
 ## Testing
 
@@ -411,3 +411,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V11.5 Added new download pdf for sample itineries.
 -   #### V11.6 Updates for image credits in README file.
 -   #### V11.7 Updates to README text file.
+-   #### V11.8 Further updates to README file.
