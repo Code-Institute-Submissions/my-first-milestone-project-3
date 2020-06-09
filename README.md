@@ -5,6 +5,8 @@ Milestone Project 1
 
 ![Image of AmiResponsive](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/images/amiresponsive.png)
 
+Image credit [Am I Responsive](http://ami.responsivedesign.is/#)
+
 <h2>MTB & GRAVEL BIKE TOURS</h2>
 
 <h3>CATALONIA & PYRENEES</h3>
@@ -469,3 +471,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.2 Amended form input box background to white.
 -   #### V14.2 Resized amiresponsive image.
 -   #### V14.3 Reload amirepsonsive image.
+-   #### V14.4 Added image credit for amiresponsive.
