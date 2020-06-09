@@ -468,3 +468,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.1 Rename amiresponsive image name.
 -   #### V14.2 Amended form input box background to white.
 -   #### V14.2 Resized amiresponsive image.
+-   #### V14.3 Reload amirepsonsive image.
