@@ -459,3 +459,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V13.5 Update for link and screen read links on communications.
 -   #### V13.6 Amends on social links communications syntax.
 -   #### V13.7 Moved script syntax to bottom of each html page.
+-   #### V13.8 Amended communication links to text only.
