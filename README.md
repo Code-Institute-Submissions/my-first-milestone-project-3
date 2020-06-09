@@ -50,7 +50,7 @@ The site went through the high level structure and design process per the Code I
         -   The two main colour used is grey in order to provide a neutral contrast to the colour images and to highlight different sections of the website.
 
     -   #### Typography
-        -   The Exo font is the main font used throughout the whole website. Exo is used in the main sections, as whilst it is clean and crisp, its curved edges make it less formal and more engaging to the user. The Roboto font is used in the footer section. Roboto is used in this section as it is a clean and crisp font, but with a more direct and business-like in style as a user is searching for specific information in this section. If the Exo and Roboto fonts do not feed through, the fall back option is sans-serif.
+        -   The Exo font is the main font used throughout the whole website. Exo is used in the main sections, as whilst it is clean and crisp, its curved edges make it less formal and more engaging to the user. The Roboto font is used in the footer section. Roboto is used as it is a clean and crisp font, but with a more direct and business-like style as a user is searching for specific information in this section. If the Exo and Roboto fonts do not feed through, the fall back option is sans-serif.
     
 -   ### Wireframes
     
@@ -472,3 +472,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.2 Resized amiresponsive image.
 -   #### V14.3 Reload amirepsonsive image.
 -   #### V14.4 Added image credit for amiresponsive.
+-   #### V14.5 Added met tag to stop blue phone numbers in safari.
