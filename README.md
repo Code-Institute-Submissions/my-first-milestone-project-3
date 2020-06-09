@@ -3,7 +3,7 @@ Milestone Project 1
 
 [View the live project here.](https://readri205.github.io/my-first-milestone-project/)
 
-![Image of AmiResponsive](https://readri205.github.io/my-first-milestone-project/blob/master/assets/images/amiresponsive.png")
+![Image of AmiResponsive](https://github.com/Readri205/my-first-milestone-project/blob/master/assets/images/amiresponsive.png)
 
 <h2>MTB & GRAVEL BIKE TOURS</h2>
 
@@ -465,3 +465,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V13.8 Amended communication links to text only.
 -   #### V13.9 Further amends on links and add amiresponsive image to README.
 -   #### V14.0 Reformat amiresponsive image.
+-   #### V14.1 Rename amiresponsive image name.
