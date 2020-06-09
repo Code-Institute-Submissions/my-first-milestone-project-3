@@ -207,7 +207,7 @@ The Am I Responsive site was used to validate every page of the project was resp
 
 ### Known Bugs
 
--   On a mobile iphone using the safari browser the telephone numbers appear as blue text rather than white.
+-   None 
 
 ## Deployment
 
@@ -473,3 +473,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.3 Reload amirepsonsive image.
 -   #### V14.4 Added image credit for amiresponsive.
 -   #### V14.5 Added met tag to stop blue phone numbers in safari.
+-   #### V14.6 Code comment added to contacts page.
