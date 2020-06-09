@@ -96,7 +96,9 @@ The site went through the high level structure and design process per the Code I
 
 ## Features
 
--   Responsive on all device sizes
+-   The website is designed to be responsive on all device sizes.
+
+-   The web pages do not yet show an organisation logo. The logo can be added once designed.
 
 -   Business features will be developed as the new business is developed, to provide more content on tour details, a more extensive list of tours and tour types and a more extensive pricing structure.
 
@@ -107,6 +109,10 @@ The site went through the high level structure and design process per the Code I
 -   It is expected that the site ccan be used to create an extensive customer database with full interactivity with the customer base.
 
 -   The communication icons, whilst hover effects are active, the links do not yet create actual communication links and will be added at a later date when the comunications are live.
+
+-   The Download itinery PDF document is an example only and is not intendd to be a complete document at this stage. This document will be developed by the orgnaisation in the near future.
+
+-   The website form is an example only as does not submit entered data. The form will be developed at a later stage by the organisation.
 
 ## Technologies Used
 
@@ -164,11 +170,11 @@ The Am I Responsive site was used to validate every page of the project was resp
     2. The user wants to be able to easily be able to navigate throughout the site to find content.
 
         1. The site has been designed to be fluid with easy navigation. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. As the user scrolls down through the page or any page the user is still able to immediately access the menu options to navigate the site.
+        2. As the user scrolls down through any page the user is still able to immediately access the menu options to navigate the site.
         3. The Contact page allows the user to use a number of methods to contact the organisation.
         4. On the Contact Us Page, details are offered of tours and there is a form to submit for more details.
-        6. The footer page has a phone contact number and the footer is on the bottom of every page.
-        6. More details can be obtained by downlaoding the extra details in the footer section.
+        5. The footer page has a phone contact number and the footer is on the bottom of every page.
+        6. More details can be obtained by downlaoding the PDF extra details in the footer section.
 
 -   #### Returning Visitor Goals
 
@@ -182,7 +188,7 @@ The Am I Responsive site was used to validate every page of the project was resp
 
         1. The navigation bar clearly highlights the "Contact Us" Page.
         2. Here they can fill out the form on the page or they can message the organisation through a number of contact methods.
-        4. The footer contains links to the organisations Facebook, Twitter Youtube and Instagram.
+        3. The footer contains links to the organisations Facebook, Twitter Youtube and Instagram.
 
 -   #### Frequent User Goals
 
@@ -207,7 +213,11 @@ The Am I Responsive site was used to validate every page of the project was resp
 
 ### Known Bugs
 
--   None 
+-   The current socal links do not click through to any communication mechanisms. This is intentional at this stage and will be amended one the details are formally established.
+
+-   The Download PDF is a draft document only, intended as a simple example of the intention to add the document to the website. The PDF will be completed by the organisation once more established.
+
+-   The form does not submit data to any site and is intended as an example for data submission at this stage.
 
 ## Deployment
 
@@ -215,7 +225,7 @@ The Am I Responsive site was used to validate every page of the project was resp
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Code-Institute-Org/gitpod-full-template)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
     - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
@@ -227,13 +237,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
+3. A copy of the repository will appear in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
@@ -475,3 +485,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.5 Added met tag to stop blue phone numbers in safari.
 -   #### V14.6 Code comment added to contacts page.
 -   #### V14.7 Updates to code comments in html pages.
+-   #### V14.8 Updates to README file text.
