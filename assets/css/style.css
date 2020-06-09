@@ -335,7 +335,7 @@ label {
 /*-------------------------Creates the appropriate format for the input section of the form--------------------------*/
 
 .form-control {
-    background:transparent;
+    background:#fff;
     color:#fff;
     height: 25px;
     border:1px solid #fafafa;
