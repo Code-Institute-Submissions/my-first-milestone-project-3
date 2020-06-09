@@ -474,3 +474,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.4 Added image credit for amiresponsive.
 -   #### V14.5 Added met tag to stop blue phone numbers in safari.
 -   #### V14.6 Code comment added to contacts page.
+-   #### V14.7 Updates to code comments in html pages.
