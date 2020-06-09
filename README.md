@@ -315,7 +315,7 @@ Images used in wireframes not used in website;
 
 ### Version control
 
-Amendments and updates to the website files ahve been recorderd below for each GitPod load into the GitHub repository. Each GitPod load has been annotated with a high level summary of the updates and changes made fo each load.
+Amendments and updates to the website files have been recorderd below for each GitPod load into the GitHub repository. Each GitPod load has been annotated with a high level summary of the updates and changes made for each load.
 
 -   #### V1.0 Initial commit.
 -   #### V1.1 Added header image, navbar and header text.
@@ -458,3 +458,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V13.4 Updated for README header for project.
 -   #### V13.5 Update for link and screen read links on communications.
 -   #### V13.6 Amends on social links communications syntax.
+-   #### V13.7 Moved script syntax to bottom of each html page.
