@@ -98,7 +98,7 @@ The site went through the high level structure and design process per the Code I
 
 -   The website is designed to be responsive on all device sizes.
 
--   The web pages do not yet show an organisation logo. The logo can be added once designed.
+-   The web pages do not yet show an organisation logo. The logo can be added once designed by the organisation.
 
 -   Business features will be developed as the new business is developed, to provide more content on tour details, a more extensive list of tours and tour types and a more extensive pricing structure.
 
@@ -106,11 +106,11 @@ The site went through the high level structure and design process per the Code I
 
 -   Extensive social media will also be developed in conjunction with the website and the website will include direct social media interaction (write-ups, images, videos).
 
--   It is expected that the site ccan be used to create an extensive customer database with full interactivity with the customer base.
+-   It is expected that the site ccan be used to create an extensive customer database with full communication interactivity with the customer base.
 
 -   The communication icons, whilst hover effects are active, the links do not yet create actual communication links and will be added at a later date when the comunications are live.
 
--   The Download itinery PDF document is an example only and is not intendd to be a complete document at this stage. This document will be developed by the orgnaisation in the near future.
+-   The Download itinery PDF document is an example only and is not intended to be a complete document at this stage. This document will be developed by the orgnaisation in the near future.
 
 -   The website form is an example only as does not submit entered data. The form will be developed at a later stage by the organisation.
 
@@ -486,3 +486,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V14.6 Code comment added to contacts page.
 -   #### V14.7 Updates to code comments in html pages.
 -   #### V14.8 Updates to README file text.
+-   #### V14.9 Further amends to README text.
