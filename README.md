@@ -456,3 +456,4 @@ Amendments and updates to the website files ahve been recorderd below for each G
 -   #### V13.2 Updated styles for phone hovers on contacts page.
 -   #### V13.3 Features update to note non-active social communication links.
 -   #### V13.4 Updated for README header for project.
+-   #### V13.5 Update for link and screen read links on communications.
