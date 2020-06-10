@@ -225,35 +225,35 @@ The Am I Responsive site was used to validate every page of the project was resp
 
 The project was deployed to GitHub Pages using the following steps;
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Code-Institute-Org/gitpod-full-template)
-2. At the top of the Repository (not top of page), locate the "Use this template" Button on the menu.
-3. Fill in the box next to you user ID to create the repository name for you project.
-4. Click "Create repository from template"
-5. The page will return to the main page for the repository.
-6. Click on the "Gitpod" on the menu to create the Gitpod workspace.
-7. Development is accesed directly via Gitpod in the Gitpod Workspace.
-8. The project is then regulary deployed back to Github from Gitpod using the Git Push process.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Code-Institute-Org/gitpod-full-template);
+2. At the top of the Repository (not top of page), locate the "Use this template" Button on the menu;
+3. Fill in the box next to you user ID to create the repository name for you project;
+4. Click "Create repository from template";
+5. The page will return to the main page for the repository;
+6. Click on the "Gitpod" on the menu to create the Gitpod workspace;
+7. Development is accesed directly via Gitpod in the Gitpod Workspace;
+8. The project is then regulary deployed back to Github from Gitpod using the Git Push process;
 9. All Gitpod push actions are listed in the Version Control section below.
 
 ### Forking the GitHub Repository
 
 (These steps are assumed 'correct' and not tested as it appears its not yet possile to "Fork" the project as the option is greyed out)
 
-By forking the GitHub Repository a copy can be made of the original repository on your GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+By forking the GitHub Repository a copy can be made of the original repository on your GitHub account to view and/or make changes without affecting the original repository by using the following steps;
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project);
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button;
 3. A copy of the repository will appear in your GitHub account.
 
 ### Making a Local Clone
 
 (These steps are assumed 'correct' and not tested as it appears its not yet possile to clone into an 'organisation' account, however it is possible to clone into GitHub Desktop and/or Download the 'zip' file)
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project);
+2. Under the repository name, click "Clone or download";
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link;
+4. Open Git Bash;
+5. Change the current working directory to the location where you want the cloned directory to be made;
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
 ```
@@ -503,3 +503,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.5 Amends for README text changes.
 -   #### V15.6 Text amends for typos.
 -   #### V15.7 Grammar amends in README.
+-   #### V15.8 Further grammar amends in README.
