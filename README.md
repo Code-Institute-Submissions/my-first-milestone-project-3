@@ -202,7 +202,7 @@ The Am I Responsive site was used to validate every page of the project was resp
 
     3. The user wants to sign up using the form so that they are emailed any major updates and/or changes to the website or organisation.
         1. The contact us page has a form for the user contact details to be submitted.
-        3. There is a "Submit" button at the bottom of the form.
+        2. There is a "Submit" button at the bottom of the form.
 
 ### Further Testing
 
@@ -232,7 +232,8 @@ The project was deployed to GitHub Pages using the following steps;
 5. The page will return to the main page for the repository.
 6. Click on the "Gitpod" on the menu to create the Gitpod workspace.
 7. Development is accesed dirctly via Gitpod in the Gitpod Workspace.
-7. The project is then regulary deployed back to Github from Gitpod using the Git Push process.
+8. The project is then regulary deployed back to Github from Gitpod using the Git Push process.
+9. All Gitpod push actions are listed in the Version Control section below.
 
 ### Forking the GitHub Repository
 
@@ -335,7 +336,7 @@ Images used in wireframes not used in website;
 
 -   Friends for which the site is being designed for their review and feedback on the site content and navigation.
 
-### Version control
+### Version Control
 
 Amendments and updates to the website files have been recorderd below for each GitPod load into the GitHub repository. Each GitPod load has been annotated with a high level summary of the updates and changes made for each load.
 
@@ -499,3 +500,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.2 Text amends in README.
 -   #### V15.3 Added w3c validator credit.
 -   #### V15.4 Amends for text improvements.
+-   #### V15.5 Amends for README text changes.
