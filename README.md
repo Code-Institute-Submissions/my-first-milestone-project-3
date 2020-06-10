@@ -239,7 +239,7 @@ The project was deployed to GitHub Pages using the following steps;
 
 (These steps are assumed 'correct' and not tested as it appears its not yet possile to "Fork" the project as the option is greyed out)
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+By forking the GitHub Repository a copy can be made of the original repository on your GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Readri205/my-first-milestone-project)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
@@ -502,3 +502,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.4 Amends for text improvements.
 -   #### V15.5 Amends for README text changes.
 -   #### V15.6 Text amends for typos.
+-   #### V15.7 Grammar amends in README.
