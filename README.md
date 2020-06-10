@@ -280,7 +280,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   [W3Schools](https://www.w3schools.com/howto/default.asp): W3Schools was used extensively throughout the project to make the site responsive, spacing and positioning of text, add effects to images and for the Bootsrap Grid System.
 
--   [W3C Validator](https://www.w3.org/) was used to validate the html and css code.
+-   [W3C Validator](https://www.w3.org/): The W3C Markup Validator and W3C CSS Validator Services were used to there were no syntax errors in the code.
 
 ### Content
 
@@ -498,3 +498,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.1 Retested w3c validator and loaded results PDF.
 -   #### V15.2 Text amends in README.
 -   #### V15.3 Added w3c validator credit.
+-   #### V15.4 Amends for text improvements.
