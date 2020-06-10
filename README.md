@@ -228,10 +228,10 @@ The project was deployed to GitHub Pages using the following steps;
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Code-Institute-Org/gitpod-full-template)
 2. At the top of the Repository (not top of page), locate the "Use this template" Button on the menu.
 3. Fill in the box next to you user ID to create the repository name for you project.
-4. Click "Create repository from temlate"
+4. Click "Create repository from template"
 5. The page will return to the main page for the repository.
 6. Click on the "Gitpod" on the menu to create the Gitpod workspace.
-7. Development is accesed dirctly via Gitpod in the Gitpod Workspace.
+7. Development is accesed directly via Gitpod in the Gitpod Workspace.
 8. The project is then regulary deployed back to Github from Gitpod using the Git Push process.
 9. All Gitpod push actions are listed in the Version Control section below.
 
@@ -501,3 +501,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.3 Added w3c validator credit.
 -   #### V15.4 Amends for text improvements.
 -   #### V15.5 Amends for README text changes.
+-   #### V15.6 Text amends for typos.
