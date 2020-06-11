@@ -504,3 +504,4 @@ Amendments and updates to the website files have been recorderd below for each G
 -   #### V15.6 Text amends for typos.
 -   #### V15.7 Grammar amends in README.
 -   #### V15.8 Further grammar amends in README.
+-   #### V15.9 Amend active tag for home and tours page.
